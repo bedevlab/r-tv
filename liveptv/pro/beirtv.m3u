@@ -47,7 +47,7 @@ https://zekonew.koskoros.ru/zeko/premium90/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium91/mono.m3u8
 
-#EXTINF:-1 tvg-id="Beinsportsnews.qa" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/dubai-sports.png" group-title="sports",Bein Sports News
+#EXTINF:-1 tvg-id="Beinsportsnews.qa" tvg-logo="https://assets.bein.com/bmg/sites/3/2022/11/NEWS_Channel_Full_Color.jpg" group-title="sports",Bein Sports News
 #EXTVLCOPT:http-origin=https://quest4play.xyz
 #EXTVLCOPT:http-referrer=https://quest4play.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1

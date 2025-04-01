@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referrer=https://2m.ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="AlAoulaInter.ma" tvg-logo="" group-title="Undefined",Al Aoula International (480p)
+#EXTINF:-1 tvg-id="AlAoulaInter.ma" tvg-logo="https://docs.imperium.plus/files/media-GRGQG-GFSSFMPR-GFPPL-GWLGFP-GFSSFPXQPL-MGXRQ-GFSSFPFXGMFP-X-GXFMRLWSGX/908ebd589a796eb615c687f5c049b67a.png" group-title="Undefined",Al Aoula (480p)
 https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-logo="https://i.imgur.com/DWblMvg.png" group-title="General",Al Aoula Laâyoune (480p)
 https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8

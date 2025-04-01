@@ -1,5 +1,5 @@
 #EXTM3
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-hd.png" group-title="QATAR",BeIN Sports HD
+#EXTINF:-1 tvg-id="test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="QATAR",BeIN Sports HD
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -83,7 +83,7 @@ https://dokko1new.koskoros.ru/dokko1/premium95/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium96/mono.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-8.png" group-title="OTHERS",beIN Sports MENA 8
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/beinsports8.png" group-title="OTHERS",beIN Sports MENA 8
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -95,13 +95,13 @@ https://ddy6new.koskoros.ru/ddy6/premium98/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium98/mono.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-9.png" group-title="OTHERS",beIN Sports MENA 9
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/beinsports9.png" group-title="OTHERS",beIN Sports MENA 9
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium99/mono.m3u8
 
-#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-xtra.png" group-title="OTHERS",beIN SPORTS XTRA 1
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest?cb=20201108180437" group-title="OTHERS",beIN SPORTS XTRA 1
 #EXTVLCOPT:http-origin=https://chimeracuddleplay.cfd
 #EXTVLCOPT:http-referrer=https://chimeracuddleplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1

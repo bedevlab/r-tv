@@ -3,31 +3,41 @@
 #EXTVLCOPT:http-referrer=https://2m.ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="AlAoulaInter.ma" tvg-logo="https://docs.imperium.plus/files/media-GRGQG-GFSSFMPR-GFPPL-GWLGFP-GFSSFPXQPL-MGXRQ-GFSSFPFXGMFP-X-GXFMRLWSGX/908ebd589a796eb615c687f5c049b67a.png" group-title="Undefined",Al Aoula (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="LaayouneTV.ma" tvg-logo="https://i.imgur.com/DWblMvg.png" group-title="General",Al Aoula Laâyoune (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General",Al Maghribia (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="Religious",Assadissa (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Culture",Athaqafia (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma@Inter" tvg-logo="ttps://docs.imperium.plus/files/media-GRGQG-GFSSFMPR-GFPPL-GWLGFP-GFSSFPXQPL-MGXRQ-GFSSFPFXGMFP-X-GXFMRLWSGX/908ebd589a796eb615c687f5c049b67a.png" group-title="General" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Al Aoula
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="LaayouneTV.ma@SD" tvg-logo="https://ewsat.com/img/AL_AOULA_LAAYOUNE.png" group-title="General" http-referrer="https://snrt.player.easybroadcast.io/",Al Aoula Laâyoune
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma@SD" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General" http-referrer="https://snrt.player.easybroadcast.io/",Al Maghribia
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports" http-referrer="https://snrt.player.easybroadcast.io/",Arryadia
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma@SD" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="Religious" http-referrer="https://snrt.player.easybroadcast.io/",Assadissa
+#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="Athaqafia.ma@SD" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Culture" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Athaqafia
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Chadatv_logo.png" group-title="General",Chada TV (720p)
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="telemaroc.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="General",Tele Maroc
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/kuw/telmar.m3u8
-#EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="News",M24 TV (1080p)
+#EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="News",M24 TV
 https://67aac8c668349.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Family",MBC 5 (1080p)
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Family",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_tv_logo.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_tv_logo.png" group-title="News",Medi 1 TV Afrique
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_tv_logo.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_tv_logo.png" group-title="News",Medi 1 TV Arabic
 https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_tv_logo.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://www.medi1tv.com/assets/imgs/medi1_tv_logo.png" group-title="News",Medi 1 TV Maghreb
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Tamazight-tv-chaine.png" group-title="General",Tamazight (480p)
-https://cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TamazightTV.ma@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Tamazight-tv-chaine.png" group-title="General" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Tamazight TV
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8

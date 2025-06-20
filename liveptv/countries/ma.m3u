@@ -3,10 +3,14 @@
 #EXTVLCOPT:http-referrer=https://2m.ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="AlAoula.ma@Inter" tvg-logo="ttps://docs.imperium.plus/files/media-GRGQG-GFSSFMPR-GFPPL-GWLGFP-GFSSFPXQPL-MGXRQ-GFSSFPFXGMFP-X-GXFMRLWSGX/908ebd589a796eb615c687f5c049b67a.png" group-title="General" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Al Aoula
+#EXTINF:-1 tvg-id="AlAoula.ma@Inter" tvg-logo="https://docs.imperium.plus/files/media-GRGQG-GFSSFMPR-GFPPL-GWLGFP-GFSSFPXQPL-MGXRQ-GFSSFPFXGMFP-X-GXFMRLWSGX/908ebd589a796eb615c687f5c049b67a.png" group-title="General" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Al Aoula
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Aflamtv.ma" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_aflam_tv.png" group-title="General",Aflam TV
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://fl1002.bozztv.com/ga-aflamtv7/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="LaayouneTV.ma@SD" tvg-logo="https://ewsat.com/img/AL_AOULA_LAAYOUNE.png" group-title="General" http-referrer="https://snrt.player.easybroadcast.io/",Al Aoula Laâyoune
 #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
 https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8

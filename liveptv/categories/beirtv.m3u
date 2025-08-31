@@ -1,4 +1,10 @@
 #EXTM3
+#EXTINF:-1 tvg-id="test" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/2560px-Sky_Sports_logo_2020.svg.png" group-title="QATAR",Sky Sports HD
+#EXTVLCOPT:http-origin=https://jxoxkplay.xyz
+#EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
+https://azonew.newkso.ru/azo/eplayerskymain2/mono.m3u8
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="QATAR",BeIN Sports HD
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/

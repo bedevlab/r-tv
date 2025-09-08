@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4Sports.fr" tvg-logo="https://i.ibb.co/RTVXW2gj/Screenshot-2025-05-18-231648.png" group-title="Sports",4Sport
+#EXTINF:-1 tvg-id="dazn1.pr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="Sports",4Sport
 https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" group-title="Sports",30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-id="4Sports.fr" tvg-logo="https://i.ibb.co/RTVXW2gj/Screenshot-2025-05-18-231648.png" group-title="Sports",DAZN 1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/ele1.m3u8
+#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6b490f9-d83d-416e-959a-6e403e5ab9c4/dh4g6wq-d016be9e-975a-4cf2-84d0-e0fbadc1d27e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2YjQ5MGY5LWQ4M2QtNDE2ZS05NTlhLTZlNDAzZTVhYjljNFwvZGg0ZzZ3cS1kMDE2YmU5ZS05NzVhLTRjZjItODRkMC1lMGZiYWRjMWQyN2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pY6fcw57qTNTi-L7quKhH7oRnRrZExp_Hq3yJ4COcRM" group-title="Sports",Sky MainEvent
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/skymain.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="Sports",Abu Dhabi Sports 2 (1080p)

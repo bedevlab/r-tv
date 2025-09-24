@@ -8,6 +8,12 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="TNTSports4HD.uk" group-title="Thể Thao" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT Sports 4 HD
 https://7pal.short.gy/tntspts4
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ziggo_Sport.svg/1280px-Ziggo_Sport.svg.png",ZIGGO SPORT 1 HD
+http://185.236.230.212:9982/play/a09f
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l9v2ym1728725812.png",ZIGGO SPORT 2 HD
+http://185.236.230.212:9982/play/a099
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://www.ziggosport.nl/images/logos/logo-ziggosport6.svg",ZIGGO SPORT 6 HD
+http://185.236.230.212:9982/play/a09a
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Sports",L'Equipe
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-id="4Sports.fr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="Sports",Sky Sports PremierLeague

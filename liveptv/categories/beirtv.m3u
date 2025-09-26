@@ -1,32 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1.png" group-title="OTHERS",Blood-redglider@rY2FyZGluYWxAclltVkpUaUJUY0c5eWRITWdNUT09
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1.png" group-title="OTHERS",Redsquirrel@rYmVJTiBTcG9ydHMgMQ==
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-cardinal@raHR0cDovL3ZpcC5zYWItaXB0di5jb206ODAwMC9saXZlLzQzODIxODIxL0RlVGI3dFB1aWhwbzdtLzIxNDY2OS5tM3U4
+redpanda@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTEvbW9uby5tM3U4
+Redsquirrel@raHR0cDovL3ZpcC5zYWItaXB0di5jb206ODAwMC9saXZlLzQzODIxODIxL0RlVGI3dFB1aWhwbzdtLzIxNDY2OS5tM3U4
 Redsquirrel@raHR0cHM6Ly93by5jbWEuZm9vdGJhbGxpaS5pci9obHMyL2IxX3NyYy5tM3U4
-redpanda@raHR0cHM6Ly9iZGQwMC40cm91d2FuZGEtc2hvcC5zdG9yZS9saXZlL2xiMi9iczEtbXVsdGkubTN1OA==
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-2.png" group-title="OTHERS",Redsquirrel@rYmVJTiBTcG9ydHMgMg==
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-Redsquirrel@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4
+Blood-redglider@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-3.png" group-title="OTHERS",Redsquirrel@rYmVJTiBTcG9ydHMgMw==
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-3.png" group-title="OTHERS",redpanda@rYmVJTiBTcG9ydHMgMw==
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 redpanda@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-4.png" group-title="OTHERS",Blood-redglider@rYmVJTiBTcG9ydHMgNA==
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-4.png" group-title="OTHERS",cardinal@rYmVJTiBTcG9ydHMgNA==
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-redpanda@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4
+cardinal@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-5.png" group-title="OTHERS",Blood-redglider@rYmVJTiBTcG9ydHMgNQ==
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-5.png" group-title="OTHERS",Redsquirrel@rYmVJTiBTcG9ydHMgNQ==
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-Redsquirrel@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTUvbW9uby5tM3U4
+Blood-redglider@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTUvbW9uby5tM3U4
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-6.png" group-title="OTHERS",Redsquirrel@rYmVJTiBTcG9ydHMgNg==
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
@@ -34,7 +34,7 @@ Redsquirrel@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTUvbW9uby5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 Redsquirrel@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTYvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/beinsports8.png" group-title="OTHERS",Redsquirrel@rYmVJTiBTcG9ydHMgOA==
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/beinsports8.png" group-title="OTHERS",Blood-redglider@rYmVJTiBTcG9ydHMgOA==
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -45,25 +45,25 @@ Redsquirrel@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 cardinal@raHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NzgvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-mena-english-1.png" group-title="OTHERS",redpanda@rYmVJTiBTcG9ydHMgTUVOQSBFbmdsaXNoIDE=
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-mena-english-1.png" group-title="OTHERS",Blood-redglider@rYmVJTiBTcG9ydHMgTUVOQSBFbmdsaXNoIDE=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-Blood-redglider@raHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=
+cardinal@raHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=
 
-#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1.png" group-title="TURKEY",Blood-redglider@rYmVJTiBTUE9SVFMgMSBUdXJrZXk=
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1.png" group-title="TURKEY",Redsquirrel@rYmVJTiBTUE9SVFMgMSBUdXJrZXk=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-Redsquirrel@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Mi9tb25vLm0zdTg=
+cardinal@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Mi9tb25vLm0zdTg=
 
-#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-2.png" group-title="TURKEY",Redsquirrel@rYmVJTiBTUE9SVFMgMiBUdXJrZXk=
+#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-2.png" group-title="TURKEY",redpanda@rYmVJTiBTUE9SVFMgMiBUdXJrZXk=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-Blood-redglider@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02My9tb25vLm0zdTg=
+cardinal@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02My9tb25vLm0zdTg=
 
-#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-3.png" group-title="TURKEY",Blood-redglider@rYmVJTiBTUE9SVFMgMyBUdXJrZXk=
+#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-3.png" group-title="TURKEY",Redsquirrel@rYmVJTiBTUE9SVFMgMyBUdXJrZXk=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
@@ -73,48 +73,48 @@ Blood-redglider@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02NC9tb25vLm0
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-Blood-redglider@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Ny9tb25vLm0zdTg=
+cardinal@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Ny9tb25vLm0zdTg=
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-mena-english-2.png" group-title="OTHERS",cardinal@rYmVJTiBTcG9ydHMgTUVOQSBFbmdsaXNoIDI=
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-mena-english-2.png" group-title="OTHERS",Blood-redglider@rYmVJTiBTcG9ydHMgTUVOQSBFbmdsaXNoIDI=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-cardinal@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MC9tb25vLm0zdTg=
+Blood-redglider@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW05MC9tb25vLm0zdTg=
 
-#EXTINF:-1 tvg-id="Beinsportsnews.qa" tvg-logo="https://assets.bein.com/bmg/sites/3/2022/11/NEWS_Channel_Full_Color.jpg" group-title="sports",cardinal@rQmVpbiBTcG9ydHMgTmV3cw==
+#EXTINF:-1 tvg-id="Beinsportsnews.qa" tvg-logo="https://assets.bein.com/bmg/sites/3/2022/11/NEWS_Channel_Full_Color.jpg" group-title="sports",redpanda@rQmVpbiBTcG9ydHMgTmV3cw==
 #EXTVLCOPT:http-origin=https://quest4play.xyz
 #EXTVLCOPT:http-referrer=https://quest4play.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-cardinal@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA0L21vbm8ubTN1OA==
+Redsquirrel@raHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjA0L21vbm8ubTN1OA==
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-mena-premium-1.png" group-title="OTHERS",Redsquirrel@rYmVJTiBTcG9ydHMgTUVOQSBQcmVtaXVtIDE=
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-mena-premium-1.png" group-title="OTHERS",cardinal@rYmVJTiBTcG9ydHMgTUVOQSBQcmVtaXVtIDE=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
 redpanda@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OC9tb25vLm0zdTg=
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/beinsports9.png" group-title="OTHERS",Redsquirrel@rYmVJTiBTcG9ydHMgTUVOQSA5
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/beinsports9.png" group-title="OTHERS",redpanda@rYmVJTiBTcG9ydHMgTUVOQSA5
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-cardinal@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OS9tb25vLm0zdTg=
+Blood-redglider@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW05OS9tb25vLm0zdTg=
 
-#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest?cb=20201108180437" group-title="OTHERS",redpanda@rYmVJTiBTUE9SVFMgWFRSQSAx
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest?cb=20201108180437" group-title="OTHERS",Blood-redglider@rYmVJTiBTUE9SVFMgWFRSQSAx
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-cardinal@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4
+redpanda@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDAvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1-france.png" group-title="FRANCE",cardinal@rT0sgYmVJTiBTUE9SVFMgMSBGcmFuY2U=
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1-france.png" group-title="FRANCE",redpanda@rT0sgYmVJTiBTUE9SVFMgMSBGcmFuY2U=
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-cardinal@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4
+redpanda@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-2-france.png" group-title="FRANCE",redpanda@rYmVJTiBTUE9SVFMgMiBGcmFuY2U=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-redpanda@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4
+cardinal@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-3-france.png" group-title="FRANCE",redpanda@rYmVJTiBTUE9SVFMgMyBGcmFuY2U=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
@@ -126,19 +126,19 @@ Redsquirrel@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-cardinal@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4
+redpanda@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzIvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-6.png" group-title="UNITED STATES",Redsquirrel@rQmVJTiBTUE9SVFMgVVNB
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-6.png" group-title="UNITED STATES",cardinal@rQmVJTiBTUE9SVFMgVVNB
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-Redsquirrel@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjUvbW9uby5tM3U4
+Blood-redglider@raHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjUvbW9uby5tM3U4
 
 #EXTINF:-1 tvg-id="beINSports1.au" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1.png" group-title="AUSTRALIA",Blood-redglider@rYmVJTiBTUE9SVFMgQXVzdHJhbGlhIDE=
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-redpanda@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTEvbW9uby5tM3U4
+Redsquirrel@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTEvbW9uby5tM3U4
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Premium 492" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Premium Channels",cardinal@rIEJlaW4gU3BvcnRzIDIgRW5nbGlzaA==
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz
@@ -150,33 +150,33 @@ Blood-redglider@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTIvbW9uby5
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-Blood-redglider@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTMvbW9uby5tM3U4
+Redsquirrel@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTMvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-4-france.png" group-title="FRANCE",Blood-redglider@rYmVJTiBTcG9ydHMgTUFYIDQgRnJhbmNl
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-4-france.png" group-title="FRANCE",redpanda@rYmVJTiBTcG9ydHMgTUFYIDQgRnJhbmNl
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-cardinal@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTQvbW9uby5tM3U4
+Redsquirrel@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTQvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-5-france.png" group-title="FRANCE",cardinal@rYmVJTiBTcG9ydHMgTUFYIDUgRnJhbmNl
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-5-france.png" group-title="FRANCE",Blood-redglider@rYmVJTiBTcG9ydHMgTUFYIDUgRnJhbmNl
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-cardinal@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTUvbW9uby5tM3U4
+Redsquirrel@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTUvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-6-france.png" group-title="FRANCE",Blood-redglider@rYmVJTiBTcG9ydHMgTUFYIDYgRnJhbmNl
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-6-france.png" group-title="FRANCE",Redsquirrel@rYmVJTiBTcG9ydHMgTUFYIDYgRnJhbmNl
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-redpanda@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTYvbW9uby5tM3U4
+cardinal@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTYvbW9uby5tM3U4
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-7-france.png" group-title="FRANCE",cardinal@rYmVJTiBTcG9ydHMgTUFYIDcgRnJhbmNl
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
-Blood-redglider@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTcvbW9uby5tM3U4
+redpanda@raHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00OTcvbW9uby5tM3U4
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-8-france.png" group-title="FRANCE",Blood-redglider@rYmVJTiBTcG9ydHMgTUFYIDggRnJhbmNl
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-max-8-france.png" group-title="FRANCE",redpanda@rYmVJTiBTcG9ydHMgTUFYIDggRnJhbmNl
 #EXTVLCOPT:http-origin=https://jxoxkplay.xyz
 #EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24

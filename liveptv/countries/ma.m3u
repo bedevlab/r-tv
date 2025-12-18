@@ -1,49 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M TV
-#EXTVLCOPT:http-referrer=https://2m.ma
+#EXTINF:-1 tvg-id="" tvg-name="2M TV" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",cardinal@rMk0gVFY=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
-https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id="AflamTV.ma@SD" tvg-logo="https://i.imgur.com/XqQxO9J.png" group-title="Movies",Aflam TV
-https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
-#EXTINF:-1 tvg-id="AlAoula.ma@Inter" tvg-logo="https://i.imgur.com/nq53d2N.png" group-title="General" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Al Aoula Inter
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="LaayouneTV.ma@SD" tvg-logo="https://www.snrt.ma/sites/default/files/2023-04/laayoune.png" group-title="General" http-referrer="https://snrt.player.easybroadcast.io/",Al Aoula Laâyoune
+#EXTVLCOPT:http-referrer=https://2m.ma
+cardinal@raHR0cHM6Ly9jZG4tZ2xvYmVjYXN0LmFrYW1haXplZC5uZXQvbGl2ZS9lZHMvMm1fbW9uZGUvaGxzX3ZpZGVvX3RzX3R1aGF3eHBpZW16MjU3YWRmYy8ybV9tb25kZS5tM3U4
+cardinal@raHR0cHM6Ly92aWFtb3Rpb25oc2kubmV0cGx1cy5jaC9saXZlL2Vkcy8ybW1hcm9jL2Jyb3dzZXItZGFzaC8ybW1hcm9jLm1wZA==
+cardinal@raHR0cHM6Ly9kMnFoM2doMGs1dnAzdi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMzcyMmM2MGE4MTVjMTk5ZDljMGVmMzZjNWI3M2RhNjhhNjJiMDlkMS9jYy1uNnBlc3M1bHdiZ2hyLzJNX0VTLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Aflam TV" tvg-logo="https://i.imgur.com/XqQxO9J.png" group-title="Movies",cardinal@rQWZsYW0gVFY=
+cardinal@raHR0cHM6Ly9mbDEwMDIuYm96enR2LmNvbS9nYS1hZmxhbXR2Ny9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula Inter" tvg-logo="https://i.imgur.com/nq53d2N.png" group-title="General",cardinal@rQWwgQW91bGEgSW50ZXI=
+cardinal@raHR0cHM6Ly94ZGRydHMuYWx3YXlzZGF0YS5uZXQvbWFyb284MS9tYWFsb3VsYS5waHA/bTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula Laâyoune" tvg-logo="https://www.snrt.ma/sites/default/files/2023-04/laayoune.png" group-title="General",cardinal@rQWwgQW91bGEgTGHieW91bmU=
+cardinal@raHR0cHM6Ly9vcHBvbXUuc2VydjAwLm5ldC9tYXJvbzgxL21hbGFheW91bmUucGhwP20zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General",cardinal@rQWwgTWFnaHJpYmlh
 #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma@SD" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General" http-referrer="https://snrt.player.easybroadcast.io/",Al Maghribia
+cardinal@raHR0cHM6Ly9jZG4ubGl2ZS5lYXN5YnJvYWRjYXN0LmlvL2Ficl9jb3JwLzczX2FsbWFnaHJpYmlhXzgzdHo4NXEvY29ycC83M19hbG1hZ2hyaWJpYV84M3R6ODVxXzQ4MHAvY2h1bmtzX2R2ci5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",cardinal@rQXJyeWFkaWE=
 #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
-https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports" http-referrer="https://snrt.player.easybroadcast.io/",Arryadia
-#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma@TNT" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Arryadia TNT
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://cdn.live.easybroadcast.io/ts_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Assadissa.ma@SD" tvg-logo="https://i.postimg.cc/YS9NzzTf/assadissa.png" group-title="Religious" http-referrer="https://snrt.player.easybroadcast.io/",Assadissa
-#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
-https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="Athaqafia.ma@SD" tvg-logo="https://i.postimg.cc/K8ctm5cS/athaqafia.png" group-title="Culture" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Athaqafia
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.postimg.cc/3w0XqCFX/chadatv.png" group-title="General",Chada TV
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="Religious",CNA (Chaîne Nord Africaine)
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="News",Medi 1 TV Afrique
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News",Medi 1 TV Arabic
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="News",Medi 1 TV Maghreb
-https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture",StoryChannel TV
-https://136044159.r.cdnsun.net/storychannel.m3u8
-#EXTINF:-1 tvg-id="TamazightTV.ma@SD" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="General" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Tamazight TV
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+cardinal@raHR0cHM6Ly9vcHBvbXUuc2VydjAwLm5ldC9tYXJvbzgxL21hYXJyeS5waHA/bTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia TNT" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",cardinal@rQXJyeWFkaWEgVE5U
+cardinal@raHR0cHM6Ly9jZG5ldC5hbHdheXNkYXRhLm5ldC9tYXJvbzgxL21hYXJyeXRudC5waHA/bTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="https://i.postimg.cc/YS9NzzTf/assadissa.png" group-title="Religious",cardinal@rQXNzYWRpc3Nh
+cardinal@raHR0cHM6Ly94ZGRydHMuYWx3YXlzZGF0YS5uZXQvbWFyb284MS9tYWFzc2FkaS5waHA/bTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Athaqafia" tvg-logo="https://i.postimg.cc/K8ctm5cS/athaqafia.png" group-title="Culture",cardinal@rQXRoYXFhZmlh
+cardinal@raHR0cHM6Ly9vcHBvbXUuc2VydjAwLm5ldC9tYXJvbzgxL21hYXJyYWJpYS5waHA/bTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Chada TV" tvg-logo="https://i.postimg.cc/3w0XqCFX/chadatv.png" group-title="General",cardinal@rQ2hhZGEgVFY=
+cardinal@raHR0cHM6Ly9jaGFkYXR2LnZlZGdlLmluZm9tYW5pYWsuY29tL2xpdmVjYXN0L2NoYWRhdHYvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV Afrique" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="News",cardinal@rTWVkaSAxIFRWIEFmcmlxdWU=
+cardinal@raHR0cHM6Ly9zdHJlYW1pbmcxLm1lZGkxdHYuY29tL2xpdmUvc21pbDptZWRpMWZyLnNtaWwvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV Arabic" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News",cardinal@rTWVkaSAxIFRWIEFyYWJpYw==
+cardinal@raHR0cHM6Ly9zdHJlYW1pbmcxLm1lZGkxdHYuY29tL2xpdmUvc21pbDptZWRpMWFyLnNtaWwvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV Maghreb" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="News",cardinal@rTWVkaSAxIFRWIE1hZ2hyZWI=
+cardinal@raHR0cHM6Ly9zdHJlYW1pbmcxLm1lZGkxdHYuY29tL2xpdmUvc21pbDptZWRpMXR2LnNtaWwvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="StoryChannel TV" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture",cardinal@rU3RvcnlDaGFubmVsIFRW
+cardinal@raHR0cHM6Ly8xMzYwNDQxNTkuci5jZG5zdW4ubmV0L3N0b3J5Y2hhbm5lbC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Tamazight TV" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="General",cardinal@rVGFtYXppZ2h0IFRW
+cardinal@raHR0cHM6Ly9jZG5ldC5hbHdheXNkYXRhLm5ldC9tYXJvbzgxL21hdGFtYXoucGhwP20zdTg=

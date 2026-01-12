@@ -1178,6 +1178,7 @@ cardinal@raHR0cHM6Ly9hbWF6b25zYXQuYnJhc2lsc3RyZWFtLmNvbS5ici9obHMvYW1hem9uc2F0L2
 #EXTINF:-1 tvg-id="AMC.af@SD" tvg-name="AMC" tvg-logo="https://i.imgur.com/yj8RNnG.png" group-title="Music",cardinal@rQU1D
 cardinal@raHR0cHM6Ly9hbWNobHMud25zLmxpdmUvaGxzL3N0cmVhbS5tM3U4
 cardinal@raHR0cDovL2NvcnMudHVuZHJhY2FzdC5jb206MjAwMC9odHRwczovL3N0cmVhbWVyMS5uZXhnZW4uYnovQU1DL2luZGV4Lm0zdTg=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAyYS9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us@SD" tvg-name="AMC Absolute Reality" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",cardinal@rQU1DIEFic29sdXRlIFJlYWxpdHk=
 cardinal@raHR0cHM6Ly9hbWMtYWJzb2x1dGVyZWFsaXR5LTEtdXMucGxleC53dXJsLnR2L3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="AllWeddingsWEtv.us@SD" tvg-name="AMC All Weddings" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="Series",cardinal@rQU1DIEFsbCBXZWRkaW5ncw==
@@ -1203,6 +1204,7 @@ cardinal@raHR0cHM6Ly9saXZlLmdpZGVvLnZpZGVvL2FtZXJpY2F0ZXZlMi9tYXN0ZXIubTN1OA==
 #EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General",cardinal@rQW1lcmljYSBUVg==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 cardinal@raHR0cHM6Ly9wcmVwdWJsaXNoLmYucWFvdGljLm5ldC9hMDcvYW1lcmljYWhscy0xMDAwNTYvcGxheWxpc3RfNzIwcC5tM3U4
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xMTA2Mzc=
 #EXTINF:-1 tvg-id="" tvg-name="America's Boating Channel" tvg-logo="" group-title="Undefined",cardinal@rQW1lcmljYSdzIEJvYXRpbmcgQ2hhbm5lbA==
 cardinal@raHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvdjEvbWFzdGVyLzYxMWQ3OWIxMWI3N2UyZjU3MTkzNGZkODBjYTE0MTM0NTM3NzJhYzcvMDRjM2EyN2UtYzJhMC00MjBiLThlZWYtN2RhZTlhYjkzMDU2L21hbmlmZXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" group-title="Cooking",cardinal@rQW1lcmljYSdzIFRlc3QgS2l0Y2hlbg==
@@ -1856,6 +1858,7 @@ cardinal@raHR0cHM6Ly9kdnJmbDAzLmJvenp0di5jb20vaG9uZHUtYXp0ZWNhL2luZGV4Lm0zdTg=
 cardinal@raHR0cHM6Ly9henQtbXVuLm90dGVyYXZpc2lvbi5jb20vYXp0L211bi9tdW4ubTN1OA==
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-name="Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",cardinal@rQXp0ZWNhIFVubw==
 cardinal@raHR0cHM6Ly9tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXBsYXlsaXN0LzYwOWIyNDMxNTZjY2ExMDgzMTI4MjJhNi5tM3U4
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzMy9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="AzzurraTV.it@SD" tvg-name="Azzurra TV" tvg-logo="https://i.imgur.com/qWIZNEc.png" group-title="General",cardinal@rQXp6dXJyYSBUVg==
 cardinal@raHR0cHM6Ly9lZDA1LnRvcC1peC5vcmcvYXZ0dmxpdmUvYXp6dXJyYS9zdHJlYW1pbmcvcGxheWxpc3QubTN1OA==
 cardinal@raHR0cHM6Ly81OWQ3ZDZmNDdkN2ZjLnN0cmVhbWxvY2submV0L2F6enVycmF0di9henp1cnJhdHYvcGxheWxpc3QubTN1OA==
@@ -2256,20 +2259,29 @@ cardinal@raHR0cDovL2F1ZGlvbGl2ZS5yYmMuY246MTkzNS9saXZlL2FtOTI3Lzk2Sy90endqX3ZpZG
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgTUFYIDE=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
-cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS8zMzUyMzUxMC9pbmRleC5tM3U4
+cardinal@raHR0cDovLzM4LjI0Mi4yMTguOTIvYm14eHgvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4
 cardinal@raHR0cHM6Ly9wcm9kLWZhc3RseS11cy13ZXN0LTIudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvanBnX0ZMWTNOZEg3MkxyVEt3X09tSW1RNVlDT2k4Zy1IRHM1eWRNUVR0S1VZeEJPQ3QzV1VsMF9iQ3dyTS1EYlVVMDNvUW8xNTY0ZC0yNTBoVzJFTVEvdHJhbnNjb2RlL3VzLXdlc3QtMi9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLXVzLXdlc3QtMi1wdWJsaWMvZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW5abGNuTnBiMjRpT2lJeUluMC5leUpGYm1OdlpHVnlVMlYwZEdsdVp5STZJbVZ1WTI5a1pYSmZjMlYwZEdsdVoxOHhNRGd3Y0RNd1h6RXdJaXdpU0dWcFoyaDBJam94TURnd0xDSkxZbkJ6SWpvMU5UQXdMQ0pYYVdSMGFDSTZNVGt5TUgwLk9JbU1aYWJLWUowY3M5Q25JYXBVLTRhQms2S05CaUp4aTFoaC02bDRCWjQvZHluYW1pY19oaWdobGF0ZW5jeS5tM3U4P3R5cGU9bGl2ZQ==
+cardinal@raHR0cDovLzE5OS4xMTUuMTkzLjExNjo4MC85MDA0MDc5ODI3ODk0MS85MDA0MDc5ODI3ODk0MS80MzI5MDQ=
+cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS8zMzUyMzUxMC9pbmRleC5tM3U4
 cardinal@raHR0cDovL3Roa3Ntb20uc2hvcC9JTl9BQzEvdHJhY2tzLXYxYTEvbW9uby5tM3U4
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgTUFYIDI=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
+cardinal@raHR0cDovLzE5OS4xMTUuMTkzLjExNjo4MC85MDA0MDc5ODI3ODk0MS85MDA0MDc5ODI3ODk0MS80MzI5MDA=
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS85OTYyNTEwMDAvaW5kZXgubTN1OA==
 cardinal@raHR0cDovL3Roa3Ntb20uc2hvcC9JTl9BQzIvdHJhY2tzLXYxYTEvbW9uby5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News" tvg-logo="https://assets.bein.com/bmg/sites/3/2022/11/NEWS_Channel_Full_Color.jpg" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgTmV3cw==
+cardinal@raHR0cDovLzE5OS4xMTUuMTkzLjExNjo4MC85MDA0MDc5ODI3ODk0MS85MDA0MDc5ODI3ODk0MS8zMjcwNzQ=
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgMQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS85MTg0NTQ1NzgwMDEvaW5kZXgubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0MV8ubTN1OA==
 cardinal@raHR0cHM6Ly9iYWxhbmNlLmZvb3RiYWxsaWkuaXIvaGxzMi9iZWluMS5tM3U4
+cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vMV8ubTN1OA==
+cardinal@raHR0cHM6Ly9hYi5mb290YmFsbGlpLmlyL2hsczIvYmVpbjFfc3JjLm0zdTg=
+cardinal@raHR0cHM6Ly9hYi5mb290YmFsbGlpLmlyL2hsczIvYmVpbjFfbG93Lm0zdTg=
+cardinal@raHR0cDovL3N1cGVyaW50ZW5kZW50LndoYXRldmVyZ29zLmNvbTo4MDgwL0FCRFVMTEFIL2FIVnpEcnBDTWgvMTQyNzU1
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-2.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgMg==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
@@ -2277,31 +2289,42 @@ cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS82OTg1NDIxMS9pbm
 cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vMl8ubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0Ml8ubTN1OA==
 cardinal@raHR0cHM6Ly9iYWxhbmNlLmZvb3RiYWxsaWkuaXIvaGxzMi9iZWluMi5tM3U4
+cardinal@raHR0cHM6Ly9hYi5mb290YmFsbGlpLmlyL2hsczIvYmVpbjJfc3JjLm0zdTg=
+cardinal@raHR0cHM6Ly9hYi5mb290YmFsbGlpLmlyL2hsczIvYmVpbjJfbG93Lm0zdTg=
+cardinal@raHR0cHM6Ly9iYWxhbmNlLmZvb3RiYWxsaWkuaXIvaGxzMi9tYW0ubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-3.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgMw==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS82NDU1ODc3MDAvaW5kZXgubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0M18ubTN1OA==
+cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vM18ubTN1OA==
+cardinal@raHR0cDovL3N1cGVyaW50ZW5kZW50LndoYXRldmVyZ29zLmNvbTo4MDgwL0FCRFVMTEFIL2FIVnpEcnBDTWgvMTQyNzU3
+cardinal@raHR0cHM6Ly9iYWxhbmNlLmZvb3RiYWxsaWkuaXIvaGxzMi9iZWluMy5tM3U4
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-4.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgNA==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS85Nzg3NDg4ODQ3L2luZGV4Lm0zdTg=
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0NF8ubTN1OA==
+cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vNF8ubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-5.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgNQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS82MTAzMDMwMzAvaW5kZXgubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0NV8ubTN1OA==
+cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vNV8ubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-6.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgNg==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS8xNTE1MDAwMDAwL2luZGV4Lm0zdTg=
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0Nl8ubTN1OA==
+cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vNl8ubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/BEIN7.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgNw==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS8zMzUyMzUxMC9pbmRleC5tM3U4
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0N18ubTN1OA==
+cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vN18ubTN1OA==
+cardinal@raHR0cDovL3Mub25seTQudHYvOTAxNS9pbmRleC5tM3U4P3Rva2VuPWpacXF2bm5xQ3M=
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sports 1" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Bn",cardinal@rQWx3YW4gU3BvcnRzIDE=
 cardinal@raHR0cHM6Ly9zdHJlYW0uZ29hbHh0di53b3JrZXJzLmRldi9hbHcxL2hkLm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sports 2" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Bn",cardinal@rQWx3YW4gU3BvcnRzIDI=
@@ -4043,6 +4066,9 @@ cardinal@raHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9wbGF5bGlzdC5tM3U4P25ldHdvcmtfaW
 cardinal@raHR0cHM6Ly9hLWNkbi5rbG93ZHR2LmNvbS9saXZlMS9jaW5lXzcyMHAvcGxheWxpc3QubTN1OA==
 #EXTINF:-1 tvg-id="CineTerror.us@SD" tvg-name="Cine Terror" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movies",cardinal@rQ2luZSBUZXJyb3I=
 cardinal@raHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNWQ4ZDE4MDA5MmU5N2E1ZTEwNzYzOGQzL21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyN2UwMDEtMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPWMwYTM0MTg2LWQ5Y2ItNDkwNy04ODJjLWJmNjFlNGQ1OWUwZg==
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVkY2RkZjFlZDk1ZTc0MDAwOWZlZjdhYi9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9YmZmMDAwNzAtNjMwNy0xMWViLWIzZmEtMDE5Y2I5NmYxMjFiJmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD1jODA4ZjM3Ni0zYzUxLTRjZTQtOGRjMS1mOWIxZTljNDk0Y2MmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+cardinal@raHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3N0aXRjaC9obHMvY2hhbm5lbC81ZGNkZGYxZWQ5NWU3NDAwMDlmZWY3YWIvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD0mYXBwTmFtZT13ZWImYXBwVmVyc2lvbj01LjcuNS0wYjE2NzRiNjI2ZjVlNWFkYzFmMmIxZDEyYjA2OGU4OWE5NTBmZGY3JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPSZkZXZpY2VETlQ9ZmFsc2UmZGV2aWNlSWQ9MzdjNDgyMDYtMTM2Ni00NjcyLTllZGYtNTc3YjA2YjdjZTRmJmRldmljZUxhdD0tMzIuODgzMyZkZXZpY2VMb249LTY4LjgxNjcmZGV2aWNlTWFrZT1BbmRyb2lkJTJCQnJvd3NlciZkZXZpY2VNb2RlbD1BbmRyb2lkJTJCQnJvd3NlciZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPTQuMCZpbmNsdWRlRXh0ZW5kZWRFdmVudHM9ZmFsc2UmbWFya2V0aW5nUmVnaW9uPVZFJnNpZD0wMGJjOGJhMC1mNjhkLTExZWEtYjRmNS0wMjQyYWMxMTAwMDImdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwL2hzYW5kb3ZhbDc1OC8xMjM0NTYvMzc3OTY1
 #EXTINF:-1 tvg-id="CineTerror.us@LATAM" tvg-name="Cine Terror LATAM" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movies",cardinal@rQ2luZSBUZXJyb3IgTEFUQU0=
 cardinal@raHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3YxL3N0aXRjaC9lbWJlZC9obHMvY2hhbm5lbC81ZGNkZGYxZWQ5NWU3NDAwMDlmZWY3YWIvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD1jaGFubmVsJmFwcE5hbWU9cm9rdWNoYW5uZWwmYXBwVmVyc2lvbj0xLjAmYm1vZGVsPWJtMSZjaGFubmVsX2lkPWNoYW5uZWwmY29udGVudD1jaGFubmVsJmNvbnRlbnRfcmF0aW5nPVJPS1VfQURTX0NPTlRFTlRfUkFUSU5HJmNvbnRlbnRfdHlwZT1saXZlZmVlZCZjb3BwYT1mYWxzZSZkZXZpY2VETlQ9MSZkZXZpY2VJZD1jaGFubmVsJmRldmljZU1ha2U9cm9rdUNoYW5uZWwmZGV2aWNlTW9kZWw9d2ViJmRldmljZVR5cGU9cm9rdUNoYW5uZWwmZGV2aWNlVmVyc2lvbj0xLjAmZW1iZWRQYXJ0bmVyPXJva3VDaGFubmVsJmdlbnJlPVJPS1VfQURTX0NPTlRFTlRfR0VOUkUmaXNfbGF0PTEmcGxhdGZvcm09d2ViJnJkaWQ9Y2hhbm5lbCZzdHVkaW9faWQ9dmlhY29tJnRhZ3M9Uk9LVV9DT05URU5UX1RBR1M=
 #EXTINF:-1 tvg-id="" tvg-name="Cine Western" tvg-logo="" group-title="Undefined",cardinal@rQ2luZSBXZXN0ZXJu
@@ -4051,6 +4077,7 @@ cardinal@raHR0cHM6Ly9mN2FkNThhYS53dXJsLmNvbS9tYXN0ZXIvZjM2ZDI1ZTdlNTJmMWJhOGQ3ZT
 cardinal@raHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNWY1MTM2MzE3YWVkZmIwMDA3MDE2ZjkzL21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyN2UwMDItMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPTMwOGZkOWRkLTJmOGEtNDQxZi1iNTlkLWUwMmY0YjBhYWNkNw==
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="Movies",cardinal@rQ2luZWNhbmFs
 cardinal@raHR0cHM6Ly9jb3JzLXByb3h5LmNvb2tzLmZ5aS9odHRwczovL3N0cmVhbWVyMS5uZXhnZW4uYnovQ0lORUNBTkFML2luZGV4Lm0zdTg=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzYS9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="CineLife.us@SD" tvg-name="CineLife" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Lifestyle",cardinal@rQ2luZUxpZmU=
 cardinal@raHR0cHM6Ly9tYWdub2xpYS1jaW5lbGlmZS5hbWFnaS50di9obHMvYW1hZ2lfaGxzX2RhdGFfbWFnbm9saWFBLWNpbmVsaWZlLW9hbmRvL0NETi9wbGF5bGlzdC5tM3U4
 #EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-name="Cinema" tvg-logo="https://i.postimg.cc/9MFWM1gT/cinema.png" group-title="Movies",cardinal@rQ2luZW1h
@@ -4428,6 +4455,7 @@ cardinal@raHR0cHM6Ly9hbWcwMDM3Ni1tYWdlbGxhbi1hbWcwMDM3NmMxNC1yYWt1dGVuLXVrLTE2OT
 #EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-name="Cosmos Tv" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Movies;News",cardinal@rQ29zbW9zIFR2
 cardinal@raHR0cHM6Ly9jYW5hbGV0YXBsdXMuY29tOjM5MjIvaHlicmlkL3BsYXkubTN1OA==
 cardinal@raHR0cHM6Ly92aWRlby5ob3N0aW5nY2FhZ3VhenUuY29tOjE5MzYwL2Nvc21vc3R2L2Nvc21vc3R2Lm0zdTg=
+cardinal@raHR0cHM6Ly90di5tZWRpYWNwLmV1OjE5MzYwL2Nvc21vcy9jb3Ntb3MubTN1OD9QbGF5bGlzdE0zVUNM
 #EXTINF:-1 tvg-id="Cosmovision.co@SD" tvg-name="Cosmovision" tvg-logo="https://i.imgur.com/QlvYfEJ.png" group-title="General",cardinal@rQ29zbW92aXNpb24=
 cardinal@raHR0cHM6Ly92aWRlb2hsczIuY29zbW92aXNpb24udHYvaGxzL3NkLm0zdTg=
 #EXTINF:-1 tvg-id="CMTV.us@SD" tvg-name="Costa Mesa's Municipal Access Channel CMTV 3" tvg-logo="https://i.imgur.com/73LKwAK.png" group-title="General",cardinal@rQ29zdGEgTWVzYSdzIE11bmljaXBhbCBBY2Nlc3MgQ2hhbm5lbCBDTVRWIDM=
@@ -6380,6 +6408,7 @@ cardinal@raHR0cHM6Ly9saXZlLmt3aWttb3Rpb24uY29tL2Z1dHVyZWxpdmUvZnR2LnNtaWwvcGxheW
 cardinal@raHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9ha2FtYWlzc2gxMDEvc3NoMTAxL2xpdmVmdXR2Y3IvcGxheWxpc3QubTN1OA==
 #EXTINF:-1 tvg-id="FX.tr@HD" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/330px-FX_International_logo.svg.png" group-title="Undefined",cardinal@rRlg=
 cardinal@raHR0cHM6Ly9zYXJhbi1saXZlLmVyY2RuLm5ldC9meC9pbmRleC5tM3U4
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxZy9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="FX.us@East" tvg-name="FX East" tvg-logo="https://i.postimg.cc/263GFb0J/fx.png" group-title="Entertainment",cardinal@rRlggRWFzdA==
 cardinal@raHR0cHM6Ly9mbDEubW92ZW9uam95LmNvbS9GWC9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="FXMovieChannel.us@SD" tvg-name="FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="Movies",cardinal@rRlggTW92aWUgQ2hhbm5lbA==
@@ -7208,6 +7237,7 @@ cardinal@raHR0cHM6Ly90di5oaXJ1aG9zdC5jb206MTkzNi84MDEyLzgwMTIvcGxheWxpc3QubTN1OA
 cardinal@raHR0cHM6Ly9nb2xpdmVhZnJpY2EubWVkaWE6OTk5OC9saXZlLzY1OTNjMzVmOWMwOTAvaW5kZXgubTN1OA==
 #EXTINF:-1 tvg-id="HispanTV.ir@SD" tvg-name="Hispan TV" tvg-logo="https://i.postimg.cc/MGpNNGs0/hispantv.png" group-title="News",cardinal@rSGlzcGFuIFRW
 cardinal@raHR0cHM6Ly9jZG5saXZlLnByZXNzdHYuaXIvbGl2ZS9zbWlsOmxpdmUuc21pbC9wbGF5bGlzdC5tM3U4
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAyNC9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="HispaniaTV.pa@SD" tvg-name="Hispania TV" tvg-logo="https://i.imgur.com/647WCF8.png" group-title="Entertainment",cardinal@rSGlzcGFuaWEgVFY=
 cardinal@raHR0cHM6Ly93d3cuc3RyZWFtaW5nNTA3Lm5ldDoxOTM2MC9oaXNwYW5pYW1lZGlhdHYvaGlzcGFuaWFtZWRpYXR2Lm0zdTg=
 #EXTINF:-1 tvg-id="History.us@East" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",cardinal@rSGlzdG9yeQ==
@@ -7219,6 +7249,7 @@ cardinal@raHR0cHM6Ly9kMjhnemJ2OWZoZG0zaC5jbG91ZGZyb250Lm5ldC9wbGF5bGlzdC9hbWcwMD
 cardinal@raHR0cHM6Ly9hbWcwMDM3Ni1tYWdlbGxhbi1hbWcwMDM3NmMxOS1zYW1zdW5nLW56LTE3MzUucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAwMzc2LW1hZ2VsbGFudHYtaGlzdG9yeWFuZHdhcmZhcmVub3dhdW56aW4tc2Ftc3VuZ256L3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="History.si@HD" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Documentary",cardinal@rSGlzdG9yeSBDaGFubmVs
 cardinal@raHR0cHM6Ly9zdHJlYW1lcjEyLnhwbG9yZXR2LnNpL19fY2wvY2c6cHJvZC9fX2MvQTFfU0lfSElTVE9SWUhEX290dC9fX29wL2Rhc2gtZGVmYXVsdC9fX2RjaS9fX2YvaW5kZXgubTN1OD9hZG1pbj14cGxvcmVUdl90ZXN0X3VzZXImcmVkaXJlY3Q9dHJ1ZQ==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzbC9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="HistoryHit.us@SD" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Undefined",cardinal@rSGlzdG9yeSBIaXQ=
 cardinal@raHR0cHM6Ly9hbWcwMDQyNi1sZHMtYW1nMDA0MjZjMi1zYW1zdW5nLXBoLTQ2MjMucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="History Hunters" tvg-logo="" group-title="Undefined",cardinal@rSGlzdG9yeSBIdW50ZXJz
@@ -9347,6 +9378,8 @@ cardinal@raHR0cHM6Ly81OWQ3ZDZmNDdkN2ZjLnN0cmVhbWxvY2submV0L2xvdmVpbnZlbmljZS9sb3
 cardinal@raHR0cHM6Ly9hbWcwMTgyMS1sb3ZldHZjaGFubmVscy1sb3ZlbWFnYXppbmV1ay1zYW1zdW5nc2UtcDFzZjEuYW1hZ2kudHYvcGxheWxpc3QvYW1nMDE4MjEtbG92ZXR2Y2hhbm5lbHMtbG92ZW1hZ2F6aW5ldWstc2Ftc3VuZ3NlL3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",cardinal@rTG92ZSBOYXR1cmU=
 cardinal@raHR0cHM6Ly9iYW11cy1rbG93ZHR2LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8yMjU0MjcudHM=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAyZC9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us@SD" tvg-name="Love Nature en Espanol" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="Undefined",cardinal@rTG92ZSBOYXR1cmUgZW4gRXNwYW5vbA==
 cardinal@raHR0cHM6Ly9hbWcwMTUxNS1hbWcwMTUxNWMxNy14dW1vLXVzLTI0ODkucGxheW91dHMubm93LmFtYWdpLnR2L2JhbXVzLWxvdmVuYXR1cmVzcGFuaXNoLXJva3UvcGxheWxpc3QubTN1OA==
 #EXTINF:-1 tvg-id="LoveNature.ca@HD" tvg-name="Love Nature HD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",cardinal@rTG92ZSBOYXR1cmUgSEQ=
@@ -9920,6 +9953,7 @@ cardinal@raHR0cHM6Ly9naXRodWIuY29tL2lwc3RyZWV0MzEyL2ZyZWVpcHR2L3Jhdy9tYXN0ZXIvcm
 cardinal@raHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2ppbWdhdGUwNy9ncnR2L3JlZnMvaGVhZHMvbWFzdGVyL01ldGFkb3NlaXMvbWVnYS5tM3U4
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-name="Mega Cine TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/mega-cine-tv.png" group-title="Movies",cardinal@rTWVnYSBDaW5lIFRW
 cardinal@raHR0cHM6Ly9jbG91ZGZsYXJlLnN0cmVhbWdhdG8udXM6MzEyNS9saXZlL21lZ2FjaW5ldHZsaXZlLm0zdTg=
+cardinal@raHR0cHM6Ly9jbG91ZGZsYXJlLnN0cmVhbWdhdG8udXM6MzEyNS9saXZlL21lZ2FjaW5ldHZsaXZlLm0zdTg/UGxheWxpc3RNM1VDTA==
 #EXTINF:-1 tvg-id="MegaTV.py@SD" tvg-name="Mega TV" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="News",cardinal@rTWVnYSBUVg==
 cardinal@raHR0cHM6Ly92ZG8xLnN0cmVhbWdhdG8udXM6MzcxMS9saXZlL21lZ2F0dmxpdmUubTN1OA==
 cardinal@raHR0cHM6Ly9vdHQzLnN0cmVhbm4uY29tL2xvYWRiYWxhbmNlci9zZXJ2aWNlcy9wdWJsaWMvY2hhbm5lbHMtc2VjdXJlLzVlNjJiOTZlMmNkY2ZhYzJkZDg4ODVkZC9wbGF5bGlzdC5tM3U4
@@ -11222,6 +11256,7 @@ cardinal@raHR0cHM6Ly9jZG4tMS5waXNob3cudHYvbGl2ZS85NjUvbWFzdGVyLm0zdTg=
 cardinal@raHR0cHM6Ly90di5uaXN2aWxsZS5jb20vbGl2ZS9uaXN2aWxsZS9wbGF5bGlzdC5tM3U4
 #EXTINF:-1 tvg-id="NitidaTV.do@SD" tvg-name="Nitida TV" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entertainment",cardinal@rTml0aWRhIFRW
 cardinal@raHR0cHM6Ly92czIwLmxpdmUub3BlbmNhc3Rlci5jb20vYnpudWR4eGR0cHB2L2luZGV4Lm0zdTg=
+cardinal@raHR0cHM6Ly9lZDE4b3YubGl2ZS5vcGVuY2FzdGVyLmNvbS9iem51ZHh4ZHRwcHYvaW5kZXgubTN1OA==
 #EXTINF:-1 tvg-id="NitroCircus.us@SD" tvg-name="Nitro Circus" tvg-logo="" group-title="Sports",cardinal@rTml0cm8gQ2lyY3Vz
 cardinal@raHR0cHM6Ly9hbWcxMzIzMS1hY3R2ZS1hbWcxMzIzMWMxLXJha3V0ZW4tdXMtNTYwNC5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OA==
 #EXTINF:-1 tvg-id="Nitro.de@HD" tvg-name="Nitro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/512px-Nitro_Logo.svg.png" group-title="Entertainment",cardinal@rTml0cm8gSEQ=
@@ -11411,6 +11446,7 @@ cardinal@raHR0cHM6Ly9zaG9wcHN0cmVhbS5uc21hbGwuY29tL0lQSE9ORS9tb2JpbGUubTN1OA==
 cardinal@raHR0cHM6Ly90aWwucHAudWE6MzI2Mi9saXZlL25zdHY3bGl2ZS5tM3U4
 #EXTINF:-1 tvg-id="NSTV.co@SD" tvg-name="NSTV" tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="General",cardinal@rTlNUVg==
 cardinal@raHR0cHM6Ly9zaXN0ZW1hc3RyLnRyb3BpY2FsbW9vbm1lZGlhLmNvbS9saXZlLzJDN0NBNkNFQ0M5QjhGOEMzQTA3MzE1RkRBMTEwOTM2LzIxLm0zdTg=
+cardinal@raHR0cDovLzEzOC4xODYuMjMuNzoyMjI4MS9uc3R2L25zdHYvcGxheWxpc3QubTN1OA==
 #EXTINF:-1 tvg-id="NTAInternational.ng@SD" tvg-name="NTA International" tvg-logo="https://i.imgur.com/mN8j8CR.png" group-title="Culture",cardinal@rTlRBIEludGVybmF0aW9uYWw=
 cardinal@raHR0cHM6Ly9hcGkudmlzaW9uaXAudHYvbGl2ZS9BU0hUVFAvdmlzaW9udHZ1ay1lbnRlcnRhaW5tZW50LW50YWktaHNzbGl2ZS0yNWYtNHgzLU1CL3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="NTCTV.in@SD" tvg-name="NTC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png" group-title="Entertainment",cardinal@rTlRDIFRW
@@ -15587,6 +15623,7 @@ cardinal@raHR0cHM6Ly9hZWdpcy1jbG91ZGZyb250LTEudHViaS52aWRlby83NDY4MWRjYy1lNmQwLT
 cardinal@raHR0cHM6Ly9saXZlMi50ZW5zaWxhLmNvbS9rbnV0LXYtMS5jaG9pY2UvaGxzL21hc3Rlci5tM3U4
 #EXTINF:-1 tvg-id="STARChannel.fi@SD" tvg-name="STAR Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Undefined",cardinal@rU1RBUiBDaGFubmVs
 cardinal@raHR0cHM6Ly9saXZlLWZpLnR2a2Fpc3RhLm5ldC9zdGFyLWNoYW5uZWwvbGl2ZS5tM3U4
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxMi9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South" tvg-name="Star Channel Latin America South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Movies;Series",cardinal@rU3RhciBDaGFubmVsIExhdGluIEFtZXJpY2EgU291dGg=
 cardinal@raHR0cDovLzE4MS4xODguMjE2LjU6MTgwMDAvcGxheS9hMHBtL2luZGV4Lm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="Star Family" tvg-logo="" group-title="Undefined",cardinal@rU3RhciBGYW1pbHk=
@@ -15677,6 +15714,7 @@ cardinal@raHR0cHM6Ly9saXZldHYubXlsaWZlaXNnb29kLm5ldC5ydS9jaGFubmVscy9zdHJ2Zi5tM3
 cardinal@raHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNjU3NzVhODhiMzgwMTIwMDA4NGEzOWVkL21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyYmQ3YTYtMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPWNkNjU5MmI4LTUzMDQtNDQ0Mi1iZjlkLWNjMzk4YzUzMmJlOA==
 #EXTINF:-1 tvg-id="Starz.us@East" tvg-name="Starz East" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Undefined",cardinal@rU3RhcnogRWFzdA==
 cardinal@raHR0cHM6Ly9mbDEubW92ZW9uam95LmNvbS9TVEFSWi9pbmRleC5tM3U4
+cardinal@raHR0cDovLzUxLjc5LjgxLjY5OjgwODAvbGl2ZS90Vm9JZGNHbzYzLzNrOWh1VDc3MUkvMTIwLnRz
 #EXTINF:-1 tvg-id="StarzEncoreClassic.us@East" tvg-name="Starz Encore Classic East" tvg-logo="https://i.imgur.com/L6GjoS4.png" group-title="Classic",cardinal@rU3RhcnogRW5jb3JlIENsYXNzaWMgRWFzdA==
 cardinal@raHR0cHM6Ly9mbDEubW92ZW9uam95LmNvbS9TVEFSWl9FTkNPUkVfQ0xBU1NJQy9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="Starz.us@West" tvg-name="Starz West" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Undefined",cardinal@rU3RhcnogV2VzdA==
@@ -16432,6 +16470,7 @@ cardinal@raHR0cHM6Ly9qb2FxdWluaXRvMDIuZXMvdmF2b28vMzUzMDk1OTcyLm0zdTg=
 cardinal@raHR0cHM6Ly92aWRlb2hkLmxpdmU6MTkzNjAvODAxNi84MDE2Lm0zdTg=
 #EXTINF:-1 tvg-id="Telecolor.ve@SD" tvg-name="Telecolor" tvg-logo="https://i.imgur.com/YvdzJHj.png" group-title="General",cardinal@rVGVsZWNvbG9y
 cardinal@raHR0cHM6Ly9jbG91ZC5saXZlc2Nhc3QuY29tOjE5MzYwL3RlbGVjb2xvci90ZWxlY29sb3IubTN1OA==
+cardinal@raHR0cHM6Ly9saXZlLm9ic2xpdmVzdHJlYW0uY29tL3RlbGVjb2xvcm11eC90cmFja3MtdjFhMS9tb25vLm0zdTg=
 #EXTINF:-1 tvg-id="TelecolorLombardia.it@SD" tvg-name="Telecolor Lombardia" tvg-logo="https://i.imgur.com/QfJqBno.png" group-title="Undefined",cardinal@rVGVsZWNvbG9yIExvbWJhcmRpYQ==
 cardinal@raHR0cHM6Ly8xYWFkZjE0NTU0NmY0NzUyODJjNWI0ZTY1OGMwYWM0Yi5tc3Zkbi5uZXQvbGl2ZS8zMjQxNDkvaGxiQVd0bC9wbGF5bGlzdC5tM3U4
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe@SD" tvg-name="Telecolor Yurimaguas" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",cardinal@rVGVsZWNvbG9yIFl1cmltYWd1YXM=
@@ -16521,6 +16560,7 @@ cardinal@raHR0cHM6Ly9wbGF5ZXJzc2wudGVsZW1pYS50di9maWxlYWRtaW4vaGxzL1RlbGVtaWFFeH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 cardinal@raHR0cHM6Ly9saXZlNC50ZWxlbWljcm8uY29tLmRvL2xpdmUvdGVsZW1pY3JvY2FzdF8xMDgwcC9wbGF5bGlzdC5tM3U4
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAycS9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="TeleMistretta.it@SD" tvg-name="TeleMistretta" tvg-logo="https://i.imgur.com/BLhvyEi.png" group-title="Undefined",cardinal@rVGVsZU1pc3RyZXR0YQ==
 cardinal@raHR0cHM6Ly9saXZlLm1hcmlhdHZjZG4uY29tL3RlbGVtaXN0cmV0dGEvOGZiY2QyMDVhZGE4MWIyOTVlZTZjMjExYzNhODBkZGUuc2RwL3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="TeleMIX.us@SD" tvg-name="TeleMIX" tvg-logo="https://i.ibb.co/HpX99Ks/unnamed.jpg" group-title="Entertainment",cardinal@rVGVsZU1JWA==
@@ -16541,6 +16581,7 @@ cardinal@raHR0cHM6Ly9kMXJxZ3c1Z29jd285aS5jbG91ZGZyb250Lm5ldC9tYW5pZmVzdC8zZmVjM2
 cardinal@raHR0cHM6Ly9jb250ZW50LnVwbHluay5jb20vY2hhbm5lbC9iNmE5NmVkMzlkNjk0YWUxYjczOGZhYTk4Y2Y3ZGQzZi5tM3U4
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South" tvg-name="Telemundo Internacional" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="General",cardinal@rVGVsZW11bmRvIEludGVybmFjaW9uYWw=
 cardinal@raHR0cDovLzE5MC4yLjIxMi4yMDk6ODA1MC9wbGF5L2Ewb2E=
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwL2hzYW5kb3ZhbDc1OC8xMjM0NTYvNTI2MjE=
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Noticias Ahora" tvg-logo="" group-title="Undefined",cardinal@rVGVsZW11bmRvIE5vdGljaWFzIEFob3Jh
 cardinal@raHR0cHM6Ly94dW1vLXh1bW9lbnQtY2g4MjctdWowY2guZmFzdC5uYmN1bmkuY29tL2xpdmUvbWFzdGVyLm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Noticias California" tvg-logo="" group-title="Undefined",cardinal@rVGVsZW11bmRvIE5vdGljaWFzIENhbGlmb3JuaWE=
@@ -16693,6 +16734,7 @@ cardinal@raHR0cDovL3RzMjAwMHR2LnN0cmVhbWluZy5uZXh0d2FyZS5pdDo4MDgxL3RzMjAwMHR2L3
 #EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-name="Teleunion" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="General",cardinal@rVGVsZXVuaW9u
 #EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
 cardinal@raHR0cDovL3NlcnZlcjJncnVwb2NhbS5jb206MTk0NS90ZWxldW5pb24vVFUvcGxheWxpc3QubTN1OA==
+cardinal@raHR0cDovL3NlcnZlcjMucHJvc3R1ZGlvbmV0d29yay5jb206MTk0NS90ZWxldW5pb24vVFUvcGxheWxpc3QubTN1OA==
 #EXTINF:-1 tvg-id="Teleuniverso.do@SD" tvg-name="Teleuniverso" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="General",cardinal@rVGVsZXVuaXZlcnNv
 cardinal@raHR0cHM6Ly92aWRlb3NlcnZlci50bWNyZWF0aXZvcy5jb206MTkzNjAva3B0amVja2thYS9rcHRqZWNra2FhLm0zdTg=
 #EXTINF:-1 tvg-id="Televallo.it@SD" tvg-name="Televallo" tvg-logo="https://i.imgur.com/SfGVu6a.png" group-title="General",cardinal@rVGVsZXZhbGxv
@@ -22448,6 +22490,7 @@ cardinal@raHR0cHM6Ly90dXJrbWVkeWEtbGl2ZS5lcmNkbi5uZXQvdHYyNC90djI0Lm0zdTg=
 cardinal@raHR0cHM6Ly90di5lbnNvbmhhYmVyLmNvbS90djI0L3R2MjQubTN1OA==
 cardinal@raHR0cHM6Ly9tbi1ubC5tbmNkbi5jb20va2FuYWwyNC9zbWlsOmthbmFsMjQuc21pbC9wbGF5bGlzdC5tM3U4
 cardinal@raHR0cHM6Ly9lbnNvbmhhYmVyLWxpdmUuZXJjZG4ubmV0L3R2MjQvdHYyNC5tM3U4
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMTk2NzgudHM=
 #EXTINF:-1 tvg-id="" tvg-name="FLASH HABER" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="Uncategorized",cardinal@rRkxBU0ggSEFCRVI=
 cardinal@raHR0cHM6Ly9mbGFzaGhhYmVyLWxpdmUuZXJjZG4ubmV0L2ZsYXNoaGFiZXIvZmxhc2hoYWJlci5tM3U4
 cardinal@raHR0cHM6Ly9iMDFjMDJubC5tZWRpYXRyaXBsZS5uZXQvdmlkZW9vbmx5bGl2ZS9tdHl5Y2dscWF1empobGl2ZS9icm9hZGNhc3RfNjdjMDUzYzQ4ODI5Zi5zbWlsL3BsYXlsaXN0Lm0zdTg=
@@ -23522,6 +23565,8 @@ cardinal@raHR0cHM6Ly9saXZlLmZyYW5jZTI0LmNvbS9obHMvbGl2ZS8yMDM3MjIwL0YyNF9FU19ISV
 cardinal@raHR0cHM6Ly9saXZlLmZyYW5jZTI0LmNvbS9obHMvbGl2ZS8yMDM3MjIwL0YyNF9FU19ISV9ITFMvbWFzdGVyXzIzMDAubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="DW ESPAÑOL" tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="Uncategorized",cardinal@rRFcgRVNQQcORT0w=
 cardinal@raHR0cHM6Ly9kd2FtZHN0cmVhbTEwNC5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MzAvZHdzdHJlYW0xMDQvaW5kZXgubTN1OA==
+cardinal@raHR0cHM6Ly9kd2FtZHN0cmVhbTEwNC5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MzAvZHdzdHJlYW0xMDQvc3RyZWFtMDUvc3RyZWFtUGxheWxpc3QubTN1OA==
+cardinal@raHR0cHM6Ly9kd2FtZHN0cmVhbTEwNC5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MzAvZHdzdHJlYW0xMDQvaW5kZXgubTN1OD9QbGF5bGlzdE0zVUNM
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD ESP" tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="Uncategorized",cardinal@rTkhLIFdPUkxEIEVTUA==
 cardinal@raHR0cHM6Ly9jZG4ubmhrd29ybGQuanAvd3d3MTEvbmhrd29ybGQtdHYvYm1jYy1saXZlL2VzL3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL" tvg-logo="https://i.ibb.co/CH8JGfJ/cgtnes.png" group-title="Uncategorized",cardinal@rQ0dUTiBFU1BBw5FPTA==
@@ -24454,10 +24499,10 @@ cardinal@raHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL3RvYTJ1dWhoeWdoZXVseTd4dH
 cardinal@raHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL3B0bGx4amQwM2o2ZzlveHhqZGZhcGcvcm95YS1raWRzLXNvbmdzL3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="ROYA KIDS STORIES" tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Uncategorized",cardinal@rUk9ZQSBLSURTIFNUT1JJRVM=
 cardinal@raHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL3B0bGx4amQwM2o2ZzlveHhqZGZhcGcvcm95YS1raWRzLXN0b3JpZXMvcGxheWxpc3QubTN1OA==
-#EXTINF:-1 tvg-id="" tvg-name="ROYA SPORTS" tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Uncategorized",cardinal@rUk9ZQSBTUE9SVFM=
-cardinal@raHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL2EybGU0cGJwYTZycHp2MTQ3aGFmNHcveW91dGgtam9yZGFuL3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="ROYA WORLD" tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Uncategorized",cardinal@rUk9ZQSBXT1JMRA==
 cardinal@raHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL3RvYTJ1dWhoeWdoZXVseTd4dHVxcmcvYXJvdW5kLXRoZS13b3JsZC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="ROYA SPORTS" tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Uncategorized",cardinal@rUk9ZQSBTUE9SVFM=
+cardinal@raHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL2EybGU0cGJwYTZycHp2MTQ3aGFmNHcveW91dGgtam9yZGFuL3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="ROYA ADVENTURES" tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Uncategorized",cardinal@rUk9ZQSBBRFZFTlRVUkVT
 cardinal@raHR0cHM6Ly9wbGF5bGlzdC5mYXN0dHZjZG4uY29tL3BsL3RvYTJ1dWhoeWdoZXVseTd4dHVxcmcvcm95YS1hZHZlbnR1cmVzL3BsYXlsaXN0Lm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="ROYA MARAYA" tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="Uncategorized",cardinal@rUk9ZQSBNQVJBWUE=
@@ -25199,3 +25244,845 @@ cardinal@raHR0cDovLw==
 cardinal@raHR0cDovLw==
 #EXTINF:-1 tvg-id="" tvg-name="TEST 01 🎉🥳🎊" tvg-logo="" group-title="Uncategorized",cardinal@rVEVTVCAwMSDwn46J8J+ls/Cfjoo=
 cardinal@raHR0cDovLw==
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9" tvg-logo="" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgOQ==
+cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0OV8ubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Retro Play TV" tvg-logo="" group-title="Uncategorized",cardinal@rUmV0cm8gUGxheSBUVg==
+cardinal@raHR0cHM6Ly92NC50dXN0cmVhbWluZy5jbC9yZXRyb3BsYXl0di9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 3 ✪" tvg-logo="" group-title="Uncategorized",cardinal@rUmV0cm8gUGx1cyBUViBTZcOxYWwgMyDinKo=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8yNTMxMDgudHM=
+#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR 2" tvg-logo="" group-title="Uncategorized",cardinal@rQ0lORSBURVJST1IgMg==
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVkOGQxODAwOTJlOTdhNWUxMDc2MzhkMy9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9MWM4MDY4YTAtNzA4OS0xMWViLTg0MmUtZWQ3YmFkNzYzMzYzJmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD0zMWQ2ZWQ1YS1lMThlLTQwZTctODZjMy0wNzJmMmI4NmRmM2MmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIER" tvg-logo="" group-title="Uncategorized",cardinal@rVU5JVkVSU0FMIFBSRU1JRVI=
+cardinal@raHR0cDovL3hjbS5idWR0di11bHRyYS5jb206OTAwMC9idWR0di9idWR0dmxpbmUvOFkzeW1VcEpFU3BzLzI3ODQ3Ni5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="NEO TV" tvg-logo="" group-title="Uncategorized",cardinal@rTkVPIFRW
+cardinal@raHR0cHM6Ly92aWRlb3N0cmVhbS5zaG9ja21lZGlhLmNvbS5hcjoxOTM2MC9uZW90dmRpZ2l0YWwvbmVvdHZkaWdpdGFsLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 12 TUCUMAN" tvg-logo="" group-title="Uncategorized",cardinal@rQ0FOQUwgMTIgVFVDVU1BTg==
+cardinal@raHR0cHM6Ly9zdHJlYW10djEyLmRkbnMubmV0OjU0NDMvTGl2ZUFwcC9zdHJlYW1zLzE5Mzk0NTYzMzczNDIwNTYxNjczMjkyMC5tM3U4P3Rva2VuPW51bGw=
+#EXTINF:-1 tvg-id="" tvg-name="Caracola TV *" tvg-logo="" group-title="Uncategorized",cardinal@rQ2FyYWNvbGEgVFYgKg==
+cardinal@raHR0cHM6Ly93aWZpc3BlZWQudHJhcGVtbi50djoxOTM2L2NvbXVuYWxlcy9jYXJhY29sYS10di9wbGF5bGlzdC5tM3U4P1BsYXlsaXN0TTNVQ0w=
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV Canal 12 Tucuman" tvg-logo="" group-title="Uncategorized",cardinal@rTWV0cm8gVFYgQ2FuYWwgMTIgVHVjdW1hbg==
+cardinal@raHR0cHM6Ly9zdHJlYW10djEyLmRkbnMubmV0OjU0NDMvTGl2ZUFwcC9zdHJlYW1zLzE5Mzk0NTYzMzczNDIwNTYxNjczMjkyMC5tM3U4P3Rva2VuPW51bGwmUGxheWxpc3RNM1VDTA==
+#EXTINF:-1 tvg-id="" tvg-name="LUCHA LIBRE AAA" tvg-logo="" group-title="Uncategorized",cardinal@rTFVDSEEgTElCUkUgQUFB
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVmOTlhNzcyYzU0ODUzMDAwNzk3YmYxOC9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9YmZmNDk0NTEtNjMwNy0xMWViLWIzZmEtMDE5Y2I5NmYxMjFiJmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD05YWFhODdkYS0wNTc1LTQ5YjQtYjVhNS0zNmI3MTBiZmNlNTgmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="US Univision" tvg-logo="" group-title="Uncategorized",cardinal@rVVMgVW5pdmlzaW9u
+cardinal@raHR0cDovL3R2MTRzLnh5ejo4MDgwL3JvY2tzdG9uZTI3NzFAeWFob28uY29tL1VONzdDRzNNNjgvMTUzMzY=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC80NjY5Mg==
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-logo="" group-title="Uncategorized",cardinal@rVGVsZW11bmRvIFBS
+cardinal@raHR0cHM6Ly9uYmN1bG9jYWxsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAzNzQ5OS9wdWVydG9yaWNvL3N0cmVhbTEvbWFzdGVyLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY" tvg-logo="" group-title="Uncategorized",cardinal@rVU5JVkVSU0FMIFJFQUxJVFk=
+cardinal@raHR0cDovL2ltYXhwbGF5Lm5ldDo4ODgwLy9saXZlL0FMSTIwMjM2Ni9QWVdQRi80Mzk3ODIudHM=
+#EXTINF:-1 tvg-id="" tvg-name="Neo TV *" tvg-logo="" group-title="Uncategorized",cardinal@rTmVvIFRWICo=
+cardinal@raHR0cHM6Ly92aWRlb3N0cmVhbS5zaG9ja21lZGlhLmNvbS5hcjoxOTM2MC9uZW90dmRpZ2l0YWwvbmVvdHZkaWdpdGFsLm0zdTg/VGVjbm9QbGF5bGlzdA==
+cardinal@raHR0cHM6Ly92aWRlb3N0cmVhbS5zaG9ja21lZGlhLmNvbS5hcjoxOTM2MC9uZW90dmRpZ2l0YWwvbmVvdHZkaWdpdGFsLm0zdTg/UGxheWxpc3RNM1VDTA==
+#EXTINF:-1 tvg-id="" tvg-name="FMTV HD" tvg-logo="" group-title="Uncategorized",cardinal@rRk1UViBIRA==
+cardinal@raHR0cHM6Ly9zMi50dmRhdHRhLmNvbTozMzA3L2h5YnJpZC9wbGF5Lm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIFBMVVM=
+cardinal@raHR0cDovL2x1bmFyLnBtOjgwODAvYm9ubWF4L2JsYWNramFjazgxNi8xMTUxMTE=
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIEZBTUlMWQ==
+cardinal@raHR0cDovL2x1bmFyLnBtOjgwODAvYm9ubWF4L2JsYWNramFjazgxNi8xMTUxMTA=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzai9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Uncategorized",cardinal@rSEJP
+cardinal@raHR0cDovL2x1bmFyLnBtOjgwODAvYm9ubWF4L2JsYWNramFjazgxNi8xMTUxMDc=
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Wester" tvg-logo="" group-title="Uncategorized",cardinal@rU3RhcnogRW5jb3JlIFdlc3Rlcg==
+cardinal@raHR0cDovLzUxLjc5LjgxLjY5OjgwODAvbGl2ZS90Vm9JZGNHbzYzLzNrOWh1VDc3MUkvMTI0LnRz
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Show Case" tvg-logo="" group-title="Uncategorized",cardinal@rU2hvd3RpbWUgU2hvdyBDYXNl
+cardinal@raHR0cDovLzUxLjc5LjgxLjY5OjgwODAvbGl2ZS90Vm9JZGNHbzYzLzNrOWh1VDc3MUkvMTE4LnRz
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="Uncategorized",cardinal@rU3BhY2U=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxeS9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Nex" tvg-logo="" group-title="Uncategorized",cardinal@rU2hvd3RpbWUgTmV4
+cardinal@raHR0cDovLzUxLjc5LjgxLjY5OjgwODAvbGl2ZS90Vm9JZGNHbzYzLzNrOWh1VDc3MUkvMTE3LnRz
+#EXTINF:-1 tvg-id="" tvg-name="PE" tvg-logo="" group-title="Uncategorized",cardinal@rUEU=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xNDI3MTAudHM=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xNDI2OTgudHM=
+#EXTINF:-1 tvg-id="" tvg-name="RCN Más" tvg-logo="" group-title="Uncategorized",cardinal@rUkNOIE3DoXM=
+cardinal@raHR0cHM6Ly9yY250di1yY25tYXMtMS11cy5wbGV4Lnd1cmwudHYvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Solidaria tv Spain" tvg-logo="" group-title="Uncategorized",cardinal@rU29saWRhcmlhIHR2IFNwYWlu
+cardinal@raHR0cDovL2NhbmFkYXJlbWFyMi50b2Rvc3RyZWFtaW5nLmVzL2xpdmUvc29saWRhcmlhdHYtd2ViaGQubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Bjgtjme" tvg-logo="" group-title="Uncategorized",cardinal@rQmpndGptZQ==
+cardinal@raHR0cHM6Ly83NmFmMWQ3ZTI3N2I0NmE1OGE0MWMxODhjM2VhNDExNy5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvZjRlOGM1M2E4MzY3YTViNThlMjBjZTA1NGVhM2NlMjVhM2U5MDRkMy9TYW1zdW5nLWVzX0JqZ3RqbWVQZWxpY3VsYXNHcmF0aXMvcGxheWxpc3QubTN1OD9hZHMud3VybF9jaGFubmVsPTEyNTEmYWRzLnd1cmxfbmFtZT1Camd0am1lUGVsaWN1bGFzR3JhdGlzJmFkcy5jb3BwYT0wJmFkcy5wc2lkPSU3QlBTSUQlN0QmYWRzLnRhcmdldG9wdD0lN0JUQVJHRVRPUFQlN0QmYWRzLmFwcF9kb21haW49JTdCQVBQX0RPTUFJTiU3RCZhZHMuYXBwX25hbWU9JTdCQVBQX05BTUUlN0QmYWRzLmNvbnNlbnQ9JTdCVENfU1RSSU5HJTdE
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-logo="" group-title="Uncategorized",cardinal@rQW50YXJlcyBUVg==
+cardinal@raHR0cHM6Ly81YzNmYjAxODM5NjU0LnN0cmVhbWxvY2submV0OjE5NjMvaXB0dmFudGFyZXMvbGl2ZWFudGFyZXN0di9wbGF5bGlzdC5tM3U4P1BsYXlsaXN0TTNVQ0w=
+cardinal@raHR0cHM6Ly81YzNmYjAxODM5NjU0LnN0cmVhbWxvY2submV0OjE5NjMvaXB0dmFudGFyZXMvbGl2ZWFudGFyZXN0di9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Accion" tvg-logo="" group-title="Uncategorized",cardinal@rUnVudGltZSBBY2Npb24=
+cardinal@raHR0cHM6Ly9ydW4tcnQtYWMub3R0ZXJhdmlzaW9uLmNvbS9ydW4vcnRfYWMvcnRfYWNfNzIwLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Peliculas" tvg-logo="" group-title="Uncategorized",cardinal@rUnVudGltZSBQZWxpY3VsYXM=
+cardinal@raHR0cHM6Ly9ydW4tcnQtbXgub3R0ZXJhdmlzaW9uLmNvbS9ydW4vcnRfbXgvcnRfbXhfNzIwcF9oaWdoLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Comedia" tvg-logo="" group-title="Uncategorized",cardinal@rUnVudGltZSBDb21lZGlh
+cardinal@raHR0cHM6Ly9ydW4tcmMtbGEub3R0ZXJhdmlzaW9uLmNvbS9ydW4vcmNfbGEvcmNfbGFfNzIwLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Crimen" tvg-logo="" group-title="Uncategorized",cardinal@rUnVudGltZSBDcmltZW4=
+cardinal@raHR0cHM6Ly9ydW4tcnVjcmwub3R0ZXJhdmlzaW9uLmNvbS9ydW4vcnVjcmwvcnVjcmxfNzIwLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Romance" tvg-logo="" group-title="Uncategorized",cardinal@rUnVudGltZSBSb21hbmNl
+cardinal@raHR0cHM6Ly9ydW4tcnVyb2wub3R0ZXJhdmlzaW9uLmNvbS9ydW4vcnVyb2wvcnVyb2xfNzIwLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Familia" tvg-logo="" group-title="Uncategorized",cardinal@rUnVudGltZSBGYW1pbGlh
+cardinal@raHR0cHM6Ly9ydW4tcnVuZmwub3R0ZXJhdmlzaW9uLmNvbS9ydW4vcnVuZmwvcnVuZmxfNzIwLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME MOVIES 1" tvg-logo="" group-title="Uncategorized",cardinal@rTVkgVElNRSBNT1ZJRVMgMQ==
+cardinal@raHR0cHM6Ly9hcHBsZXRyZWUtbXl0aW1lc3BhaW4tcmFrdXRlbi5hbWFnaS50di9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="MY TIME MOVIES 2" tvg-logo="" group-title="Uncategorized",cardinal@rTVkgVElNRSBNT1ZJRVMgMg==
+cardinal@raHR0cHM6Ly9hcHBsZXRyZWUtbXl0aW1lLXNhbXN1bmdtZXhpY28uYW1hZ2kudHYvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Terror" tvg-logo="" group-title="Uncategorized",cardinal@rUnVudGltZSBUZXJyb3I=
+cardinal@raHR0cHM6Ly9ydW4tcnV0aHIub3R0ZXJhdmlzaW9uLmNvbS9ydW4vcnV0aHIvcnV0aHJfNzIwLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="SOLIDARIA TV ARGENTINA" tvg-logo="" group-title="Uncategorized",cardinal@rU09MSURBUklBIFRWIEFSR0VOVElOQQ==
+cardinal@raHR0cHM6Ly9jYW5hZGFyZW1hcjIudG9kb3N0cmVhbWluZy5lcy9saXZlL2FyZ2VudGluYS13ZWIubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="CINE" tvg-logo="" group-title="Uncategorized",cardinal@rQ0lORQ==
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVkZWZkZTZkNmMwN2I1MDAwOWNmMDc1Ny9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9YmZmMWFlMjQtNjMwNy0xMWViLWIzZmEtMDE5Y2I5NmYxMjFiJmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD1iMWM3ZjExNi1mYTA4LTQ4OGItYTIxMy01YmIxZjdlZTVhZDImdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="Caracola TV Peñalolén CHILE" tvg-logo="" group-title="Uncategorized",cardinal@rQ2FyYWNvbGEgVFYgUGXDsWFsb2zDqW4gQ0hJTEU=
+cardinal@raHR0cHM6Ly93aWZpc3BlZWQudHJhcGVtbi50djoxOTM2L2NvbXVuYWxlcy9jYXJhY29sYS10di9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="" group-title="Uncategorized",cardinal@rU09OWSBOT1ZFTEFT
+cardinal@raHR0cHM6Ly9zcHQtbm92ZWxhcy0xLXVzLmxnLnd1cmwudHYvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Pelimex" tvg-logo="" group-title="Uncategorized",cardinal@rUGVsaW1leA==
+cardinal@raHR0cHM6Ly81NjQ5YTM4ODQ3MTU0NjAyYTM4OWRiMDczYjAzOGY0Ni5tZWRpYXRhaWxvci51cy1lYXN0LTEuYW1hem9uYXdzLmNvbS92MS9tYXN0ZXIvMGZiMzA0YjIzMjBiMjVmMDY3NDE0ZDQ4MWE3NzliNzdkYjgxNzYwZC9DYW5lbGFUVl9QZWxpTWV4L3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="SCI-FI" tvg-logo="" group-title="Uncategorized",cardinal@rU0NJLUZJ
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVmMjgxN2QzZDc1NzNhMDAwODBmOTE3NS9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9YmZmMjk4ODEtNjMwNy0xMWViLWIzZmEtMDE5Y2I5NmYxMjFiJmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD02OTk1MjQ5MC0xN2I3LTRiMmItOTJlYy00NTI1YjE4N2NiZTYmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVmNmEzOGVhYTViNjhiMDAwN2EwMGU3YS9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9ZWY0ZDI4OTEtNzI1NS0xMWViLWE5ODMtOTMzNWRlZDUzM2Y3JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD1iZDlkOTc4MS0yOTEwLTRkZDItOWIxZi1hMWZkNjYyZDBjYzMmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVmMjgxN2QzZDc1NzNhMDAwODBmOTE3NS9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9ZWY0ZDI4OTEtNzI1NS0xMWViLWE5ODMtOTMzNWRlZDUzM2Y3JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD1iZDlkOTc4MS0yOTEwLTRkZDItOWIxZi1hMWZkNjYyZDBjYzMmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="LUCHA LIBRE AAA 2" tvg-logo="" group-title="Uncategorized",cardinal@rTFVDSEEgTElCUkUgQUFBIDI=
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVjMDFkZjE3NTllZTAzNjMzZTdiMjcyYy9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9MWM3YWVhNjAtNzA4OS0xMWViLTg0MmUtZWQ3YmFkNzYzMzYzJmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD05ZTk2YTBmNi1hYzQyLTQxNjQtYTMzMy02ZjQzMGJmZWU0MzcmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="Promar TV" tvg-logo="" group-title="Uncategorized",cardinal@rUHJvbWFyIFRW
+cardinal@raHR0cHM6Ly92Y3AubXlwbGF5dHYuY29tL3Byb21hci9wcm9tYXIvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="8 NTV" tvg-logo="" group-title="Uncategorized",cardinal@rOCBOVFY=
+cardinal@raHR0cHM6Ly82MDQxN2RkZWFmMGQ5LnN0cmVhbWxvY2submV0OjQ0My9udHYvdmlkZW9udHYvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="" group-title="Uncategorized",cardinal@rU2VyaWVz
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVkY2RlMTMxNzU3ODM0MDAwOWI3NTFkMC9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPTUuMi40LTFlZmU2ZWZkMmIwMTRhM2U4NGZlN2ZmNmY4OTk0MmViN2M5NDA0OWYmYXJjaGl0ZWN0dXJlPSZidWlsZFZlcnNpb249JmNsaWVudFRpbWU9JmRldmljZUROVD0wJmRldmljZUlkPWE5YzUxNmEyLWNkMTMtNDMyMS1hODEyLTNhYjcyYjBkYjQ4MiZkZXZpY2VMYXQ9LTMzLjA3MjgmZGV2aWNlTG9uPS02OC40NjI3JmRldmljZU1ha2U9Q2hyb21lJTIwTW9iaWxlJmRldmljZU1vZGVsPUNocm9tZSUyME1vYmlsZSZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPTgwLjAuMzk4Ny4xNjImaW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD0yZjk3MzNmZC0yZDZmLTQwNjAtYmZkYi0yMjliY2U2OGExNTkmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="THE WALKING DEAD" tvg-logo="" group-title="Uncategorized",cardinal@rVEhFIFdBTEtJTkcgREVBRA==
+cardinal@raHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3YxL3N0aXRjaC9lbWJlZC9obHMvY2hhbm5lbC81ZTgyYmIzNzg2MDFiODAwMDdiNGJkNzgvbWFzdGVyLm0zdTg/ZGV2aWNlSWQ9Y2hhbm5lbCZkZXZpY2VNb2RlbD13ZWImZGV2aWNlVmVyc2lvbj0xLjAmYXBwVmVyc2lvbj0xLjAmZGV2aWNlVHlwZT1yb2t1Q2hhbm5lbCZkZXZpY2VNYWtlPXJva3VDaGFubmVsJmRldmljZUROVD0xJmFkdmVydGlzaW5nSWQ9Y2hhbm5lbCZlbWJlZFBhcnRuZXI9cm9rdUNoYW5uZWwmYXBwTmFtZT1yb2t1Y2hhbm5lbCZpc19sYXQ9MSZibW9kZWw9Ym0xJmNvbnRlbnQ9Y2hhbm5lbCZwbGF0Zm9ybT13ZWImdGFncz1ST0tVX0NPTlRFTlRfVEFHUyZjb3BwYT1mYWxzZSZjb250ZW50X3R5cGU9bGl2ZWZlZWQmcmRpZD1jaGFubmVsJmdlbnJlPVJPS1VfQURTX0NPTlRFTlRfR0VOUkUmY29udGVudF9yYXRpbmc9Uk9LVV9BRFNfQ09OVEVOVF9SQVRJTkcmc3R1ZGlvX2lkPXZpYWNvbSZjaGFubmVsX2lkPWNoYW5uZWw=
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVlODJiYjM3ODYwMWI4MDAwN2I0YmQ3OC9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9YTEwOWI4NjAtYWU2OS0xMWViLWE4N2MtMmJhMGI1YjgwNDFkJmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD04OWU3NzY4YS1kODU2LTQ0YTYtYmE5My01YmZmNGQ0MDc1N2MmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="Onda Digital 2" tvg-logo="" group-title="Uncategorized",cardinal@rT25kYSBEaWdpdGFsIDI=
+cardinal@raHR0cHM6Ly92NC50dXN0cmVhbWluZy5jbC9vZHR2Mi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Cafe 24 TV" tvg-logo="" group-title="Uncategorized",cardinal@rQ2FmZSAyNCBUVg==
+cardinal@raHR0cHM6Ly9zcnZ4MS5zZWxmdHYudmlkZW8vY2FmZS9saXZlL2NodW5rbGlzdF93MjA2OTI5MjA0OS5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 57 USA" tvg-logo="" group-title="Uncategorized",cardinal@rQ0FOQUwgNTcgVVNB
+cardinal@raHR0cHM6Ly8xNjc3OTAuZ2xvYmFsLnNzbC5mYXN0bHkubmV0LzYxODk3NDZiY2NmMDQyNGMxMTJmNTQ3Ni9saXZlXzUwYmJjYTUwMjkyMDExZWQ4ZDI2NTk2MmJlZGVlNWY5L3RyYWNrcy12MmExL21vbm8ubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="Uncategorized",cardinal@rVExDIEhE
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjc0MjQudHM=
+#EXTINF:-1 tvg-id="" tvg-name="36" tvg-logo="" group-title="Uncategorized",cardinal@rMzY=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMTk2OTAudHM=
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="Uncategorized",cardinal@rQU1DIEhE
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwOTAudHM=
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="Uncategorized",cardinal@rQSZFIEhE
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNTIudHM=
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="" group-title="Uncategorized",cardinal@rQ0lORU1BWCBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNTQudHM=
+#EXTINF:-1 tvg-id="" tvg-name="HBO  HD" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPICBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNjYudHM=
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2  HD" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIDIgIEhE
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwODYudHM=
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY  HD" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIEZBTUlMWSAgSEQ=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNjQudHM=
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS  HD" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIFBMVVMgIEhE
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNjIudHM=
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP  HD" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIFBPUCAgSEQ=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNjgudHM=
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE  SD" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIFNJR05BVFVSRSAgU0Q=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNjEudHM=
+#EXTINF:-1 tvg-id="" tvg-name="TNT  HD" tvg-logo="" group-title="Uncategorized",cardinal@rVE5UICBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNzAudHM=
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES  HD" tvg-logo="" group-title="Uncategorized",cardinal@rVE5UIFNFUklFUyAgSEQ=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNzIudHM=
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="" group-title="Uncategorized",cardinal@rQ0lORSBMQVRJTk8=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMDIudHM=
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL  HD" tvg-logo="" group-title="Uncategorized",cardinal@rQ0lORUNBTkFMICBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNzQudHM=
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwLzk3NjUxNTU5Ny8xMjM0NTYvNzgzODE=
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="" group-title="Uncategorized",cardinal@rREUgUEVMSUNVTEE=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMTEudHM=
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA CLASSIC" tvg-logo="" group-title="Uncategorized",cardinal@rREUgUEVMSUNVTEEgQ0xBU1NJQw==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMTAudHM=
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula SD" tvg-logo="" group-title="Uncategorized",cardinal@rRGUgUGVsaWN1bGEgU0Q=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMTIudHM=
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA ᴴᴰ" tvg-logo="" group-title="Uncategorized",cardinal@rREUgUEVMSUNVTEEg4bS04bSw
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMDkudHM=
+#EXTINF:-1 tvg-id="" tvg-name="FX  HD" tvg-logo="" group-title="Uncategorized",cardinal@rRlggIEhE
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwODcudHM=
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDG  HD" tvg-logo="" group-title="Uncategorized",cardinal@rR09MREVOIEVERyAgSEQ=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwOTQudHM=
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN  HD" tvg-logo="" group-title="Uncategorized",cardinal@rR09MREVOICBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwOTIudHM=
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS HD" tvg-logo="" group-title="Uncategorized",cardinal@rR09MREVOIFBMVVMgSEQ=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMDAudHM=
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER  HD" tvg-logo="" group-title="Uncategorized",cardinal@rR09MREVOIFBSRU1JRVIgIEhE
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwOTYudHM=
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANEL HD" tvg-logo="" group-title="Uncategorized",cardinal@rUEFSQU1PVU5UIENIQU5FTCBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwOTgudHM=
+#EXTINF:-1 tvg-id="" tvg-name="SONY  HD" tvg-logo="" group-title="Uncategorized",cardinal@rU09OWSAgSEQ=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwODAudHM=
+#EXTINF:-1 tvg-id="" tvg-name="SPACE CHANEL  HD" tvg-logo="" group-title="Uncategorized",cardinal@rU1BBQ0UgQ0hBTkVMICBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwODgudHM=
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL  HD" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUiBDSEFOTkVMICBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNTYudHM=
+#EXTINF:-1 tvg-id="" tvg-name="WARNER  HD" tvg-logo="" group-title="Uncategorized",cardinal@rV0FSTkVSICBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAwNzgudHM=
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="" group-title="Uncategorized",cardinal@rVU5JVkVSU0FMIENJTkVNQSBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMDUudHM=
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="" group-title="Uncategorized",cardinal@rVU5JVkVSU0FMIENPTUVEWSBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMDMudHM=
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIMEN HD" tvg-logo="" group-title="Uncategorized",cardinal@rVU5JVkVSU0FMIENSSU1FTiBIRA==
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMjAxMDYudHM=
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL." tvg-logo="" group-title="Uncategorized",cardinal@rU1RVRElPIFVOSVZFUlNBTC4=
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8xMzc3MTQudHM=
+#EXTINF:-1 tvg-id="" tvg-name="TCM  HD DASH" tvg-logo="" group-title="Uncategorized",cardinal@rVENNICBIRCBEQVNI
+cardinal@raHR0cDovL2ZseC5sYXQ6ODA4MC8vbGl2ZS9EYW5pZWxMb2FpemE3L1Q4Q1NFOU1ZOS8yMjU2MTQudHM=
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory" tvg-logo="" group-title="Uncategorized",cardinal@rVGhlIEJpZyBCYW5nIFRoZW9yeQ==
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwL2hzYW5kb3ZhbDc1OC8xMjM0NTYvMjE3MDc2
+#EXTINF:-1 tvg-id="" tvg-name="Futurama ●" tvg-logo="" group-title="Uncategorized",cardinal@rRnV0dXJhbWEg4peP
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwL2hzYW5kb3ZhbDc1OC8xMjM0NTYvMjE3MDcw
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="" group-title="Uncategorized",cardinal@rTVVMVElQUkVNSUVS
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwL2hzYW5kb3ZhbDc1OC8xMjM0NTYvMzY5Nzk5
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA HD" tvg-logo="" group-title="Uncategorized",cardinal@rUEFOQU1FUklDQU5BIEhE
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xMTA2MzM=
+#EXTINF:-1 tvg-id="" tvg-name="LATINA HD" tvg-logo="" group-title="Uncategorized",cardinal@rTEFUSU5BIEhE
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xMTA2NDA=
+#EXTINF:-1 tvg-id="" tvg-name="VENEZUELAMERIDIANO TV" tvg-logo="" group-title="Uncategorized",cardinal@rVkVORVpVRUxBTUVSSURJQU5PIFRW
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjQ5MzA=
+#EXTINF:-1 tvg-id="" tvg-name="CSIMiami en español" tvg-logo="" group-title="Uncategorized",cardinal@rQ1NJTWlhbWkgZW4gZXNwYcOxb2w=
+cardinal@raHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNjMyYjU5NTBiNTE1YjAwMDA3OWU2YjgxL21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyODU1MzQtMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPTcxZjU2Y2M4LTU5YjQtNDU2YS1iZWU3LWM1Y2JlMzc3ZTUwNg==
+#EXTINF:-1 tvg-id="" tvg-name="CSINY en español" tvg-logo="" group-title="Uncategorized",cardinal@rQ1NJTlkgZW4gZXNwYcOxb2w=
+cardinal@raHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNjMyYjYwNmUxMmE2N2IwMDA3YzllMzcxL21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyODU1MzYtMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPWZlNjg1OWFjLTJmZTAtNGNmZS1hYTdmLWI1ZjM0M2QyNTg0MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Starz Weast" tvg-logo="" group-title="Uncategorized",cardinal@rU3RhcnogV2Vhc3Q=
+cardinal@raHR0cDovLzUxLjc5LjgxLjY5OjgwODAvbGl2ZS90Vm9JZGNHbzYzLzNrOWh1VDc3MUkvMTI1LnRz
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="" group-title="Uncategorized",cardinal@rV2luIFNwb3J0cw==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzbi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="Uncategorized",cardinal@rVGVsZW11bmRv
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxNy9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="Uncategorized",cardinal@rVE5UIFNlcmllcw==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxeC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="Uncategorized",cardinal@rVE5U
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxdi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="Uncategorized",cardinal@rU3R1ZGlvIFVuaXZlcnNhbA==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzZS9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="" group-title="Uncategorized",cardinal@rUGFuYW1lcmljYW5h
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxMy9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Oromar" tvg-logo="" group-title="Uncategorized",cardinal@rT3JvbWFy
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxYS9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="" group-title="Uncategorized",cardinal@rTmF0IEdlbw==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAwNi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="A3Cine" tvg-logo="" group-title="Uncategorized",cardinal@rQTNDaW5l
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxay9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="Uncategorized",cardinal@rQVhO
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzMS9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="America TV GO" tvg-logo="" group-title="Uncategorized",cardinal@rQW1lcmljYSBUViBHTw==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxei9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Uncategorized",cardinal@rQW5pbWFsIFBsYW5ldA==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxMC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="" group-title="Uncategorized",cardinal@rQ05OIEVzcGHDsW9s
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAwZC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="Uncategorized",cardinal@rQ2luZW1heA==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAyMy9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="Uncategorized",cardinal@rRFc=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxYi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="" group-title="Uncategorized",cardinal@rRGlzY292ZXJ5IEgmSA==
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAxNi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2_MOD" tvg-logo="" group-title="Uncategorized",cardinal@rRVNQTjJfTU9E
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzdS9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="" group-title="Uncategorized",cardinal@rRVNQTiBQcmVtaXVt
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAybS9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3_MOD" tvg-logo="" group-title="Uncategorized",cardinal@rRVNQTjNfTU9E
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzdi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="ESPNPremium_MOD" tvg-logo="" group-title="Uncategorized",cardinal@rRVNQTlByZW1pdW1fTU9E
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzeS9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="ESPN_MOD" tvg-logo="" group-title="Uncategorized",cardinal@rRVNQTl9NT0Q=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzeC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="EcuadorTV" tvg-logo="" group-title="Uncategorized",cardinal@rRWN1YWRvclRW
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAyYi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="El mundo del campo" tvg-logo="" group-title="Uncategorized",cardinal@rRWwgbXVuZG8gZGVsIGNhbXBv
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAzNi9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel" tvg-logo="" group-title="Uncategorized",cardinal@rRXVyb2NoYW5uZWw=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAyai9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Hogar TV" tvg-logo="" group-title="Uncategorized",cardinal@rSG9nYXIgVFY=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAyay9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="" group-title="Uncategorized",cardinal@rVW5pY2FibGU=
+cardinal@raHR0cDovLzM4LjQ0LjEwOS40MTo4MDAzL3BsYXkvYTAwaC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="US STARZ ENCORE Black" tvg-logo="" group-title="Uncategorized",cardinal@rVVMgU1RBUlogRU5DT1JFIEJsYWNr
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjE0MQ==
+#EXTINF:-1 tvg-id="" tvg-name="US Latin Hola TV" tvg-logo="" group-title="Uncategorized",cardinal@rVVMgTGF0aW4gSG9sYSBUVg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xMzk3NTc=
+#EXTINF:-1 tvg-id="" tvg-name="US Latin Discovery" tvg-logo="" group-title="Uncategorized",cardinal@rVVMgTGF0aW4gRGlzY292ZXJ5
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC81NzY0NQ==
+#EXTINF:-1 tvg-id="" tvg-name="CR TV" tvg-logo="" group-title="Uncategorized",cardinal@rQ1IgVFY=
+cardinal@raHR0cHM6Ly9saXZlLm9ic2xpdmVzdHJlYW0uY29tL2NydHZtdXgvaW5kZXgubTN1OD9QbGF5bGlzdE0zVUNM
+#EXTINF:-1 tvg-id="" tvg-name="Teleuno" tvg-logo="" group-title="Uncategorized",cardinal@rVGVsZXVubw==
+cardinal@raHR0cDovL3R2LnRlbGV1bm90di5jcjoxOTM1L1RWVU5PL1RWVU5PL2NodW5rbGlzdF93MTk2MDY2NzUwNC5tM3U4
+cardinal@raHR0cHM6Ly81ZDE2MTI3NzQ0ODcyLnN0cmVhbWxvY2submV0L1RWVU5PL1RWVU5PL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="RT  25.5" tvg-logo="" group-title="Uncategorized",cardinal@rUlQgIDI1LjU=
+cardinal@raHR0cHM6Ly9ydC1lc3AucnR0di5jb20vbGl2ZS9ydGVzcC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="SEÑAL COLOMBIA" tvg-logo="" group-title="Uncategorized",cardinal@rU0XDkUFMIENPTE9NQklB
+cardinal@raHR0cHM6Ly9zdHJlYW1pbmcucnR2Yy5nb3YuY28vVFZfU2VuYWxfQ29sb21iaWFfbGl2ZS9zbWlsOmxpdmUuc21pbC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIE1VTkRJIEhE
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwLzk3NjUxNTU5Ny8xMjM0NTYvMTIzNDA=
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="" group-title="Uncategorized",cardinal@rVU5JVkVSU0FMIEhE
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwLzk3NjUxNTU5Ny8xMjM0NTYvMTIzNDc=
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="" group-title="Uncategorized",cardinal@rV2FybmVyIEhE
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwLzk3NjUxNTU5Ny8xMjM0NTYvNzgzOTY=
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Uncategorized",cardinal@rVE5UIEhE
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwLzk3NjUxNTU5Ny8xMjM0NTYvNzgzOTg=
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="" group-title="Uncategorized",cardinal@rU09OWSBIRA==
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwLzk3NjUxNTU5Ny8xMjM0NTYvMjE4ODA0
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Xtra N HD" tvg-logo="" group-title="Uncategorized",cardinal@rQmVpbiBTcG9ydHMgWHRyYSBOIEhE
+cardinal@raHR0cHM6Ly9iZWluLWVzcC14dW1vLmFtYWdpLnR2L3BsYXlsaXN0UjEwODBwLm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX" tvg-logo="" group-title="Uncategorized",cardinal@rQUNUSU9OIE1BWA==
+cardinal@raHR0cDovL2x1bmFyLnBtOjgwODAvYm9ubWF4L2JsYWNramFjazgxNi8xMTUwNDY=
+#EXTINF:-1 tvg-id="" tvg-name="STARZ" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlo=
+cardinal@raHR0cDovL2x1bmFyLnBtOjgwODAvYm9ubWF4L2JsYWNramFjazgxNi8xMTUxNTg=
+#EXTINF:-1 tvg-id="" tvg-name="STARZ CINEMA" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlogQ0lORU1B
+cardinal@raHR0cDovL2x1bmFyLnBtOjgwODAvc2hhY2FyYS83Mjc0MjQ5NDg4LzExNTE1OQ==
+#EXTINF:-1 tvg-id="" tvg-name="SPACE  HD" tvg-logo="" group-title="Uncategorized",cardinal@rU1BBQ0UgIEhE
+cardinal@raHR0cDovL3BsYXl0djQ0LmNvbTo4MDgwLzk3NjUxNTU5Ny8xMjM0NTYvMjE4ODAy
+#EXTINF:-1 tvg-id="" tvg-name="US ActionMAX" tvg-logo="" group-title="Uncategorized",cardinal@rVVMgQWN0aW9uTUFY
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTAxMw==
+#EXTINF:-1 tvg-id="" tvg-name="US Showtime Extreme" tvg-logo="" group-title="Uncategorized",cardinal@rVVMgU2hvd3RpbWUgRXh0cmVtZQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xMzIyMA==
+#EXTINF:-1 tvg-id="" tvg-name="US HBO Comedy" tvg-logo="" group-title="Uncategorized",cardinal@rVVMgSEJPIENvbWVkeQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNzc3Mw==
+#EXTINF:-1 tvg-id="" tvg-name="US HBO 2" tvg-logo="" group-title="Uncategorized",cardinal@rVVMgSEJPIDI=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC85ODE2
+#EXTINF:-1 tvg-id="" tvg-name="STARZ EDGE" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlogRURHRQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjE0Mw==
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="" group-title="Uncategorized",cardinal@rTUFYIFVQ
+cardinal@raHR0cDovL2x1bmFyLnBtOjgwODAvYm9ubWF4L2JsYWNramFjazgxNi8xMTUxMjE=
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + FHD" tvg-logo="" group-title="Uncategorized",cardinal@rV2luIFNwb3J0cyArIEZIRA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTM4NzE3
+#EXTINF:-1 tvg-id="" tvg-name="PAN_:TV MAX 9" tvg-logo="" group-title="Uncategorized",cardinal@rUEFOXzpUViBNQVggOQ==
+cardinal@raHR0cDovL2x1bmFyLnBtOjgwODAvc2hhY2FyYS83Mjc0MjQ5NDg4LzExNTEzNA==
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore" tvg-logo="" group-title="Uncategorized",cardinal@rU3RhcnogRW5jb3Jl
+cardinal@raHR0cDovLzUxLjc5LjgxLjY5OjgwODAvbGl2ZS90Vm9JZGNHbzYzLzNrOWh1VDc3MUkvMTIxLnRz
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone HD" tvg-logo="" group-title="Uncategorized",cardinal@rSEJPIFpvbmUgSEQ=
+cardinal@raHR0cDovLzUxLjc5LjgxLjY5OjgwODAvbGl2ZS90Vm9JZGNHbzYzLzNrOWh1VDc3MUkvMTA2LnRz
+#EXTINF:-1 tvg-id="" tvg-name="SERIES RETRO" tvg-logo="" group-title="Uncategorized",cardinal@rU0VSSUVTIFJFVFJP
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzVkZTgwMjY1OTE2N2IxMDAwOWU3ZGViYS9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9YmZmMWFlMjEtNjMwNy0xMWViLWIzZmEtMDE5Y2I5NmYxMjFiJmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD1lZmI1NDc5YS0xNzM1LTRkNTctOWI4ZS0xNjQ4N2Q5NzYwYzMmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV Czech&Slovak" tvg-logo="" group-title="Uncategorized",cardinal@rRmFzaGlvblRWIEN6ZWNoJlNsb3Zhaw==
+cardinal@raHR0cDovL2xiLnN0cmVhbWluZy5zay9mYXNoaW9udHYvc3RyZWFtL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Competencias" tvg-logo="" group-title="Uncategorized",cardinal@rQ29tcGV0ZW5jaWFz
+cardinal@raHR0cHM6Ly9zZXJ2aWNlLXN0aXRjaGVyLmNsdXN0ZXJzLnBsdXRvLnR2L3N0aXRjaC9obHMvY2hhbm5lbC81ZGQ2ZDkzNWQwMDAxMjAwMDliYzExMzIvbWFzdGVyLm0zdTg/YWR2ZXJ0aXNpbmdJZD0mYXBwTmFtZT13ZWImYXBwVmVyc2lvbj01LjcuNS0wYjE2NzRiNjI2ZjVlNWFkYzFmMmIxZDEyYjA2OGU4OWE5NTBmZGY3JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPSZkZXZpY2VETlQ9ZmFsc2UmZGV2aWNlSWQ9MzdjNDgyMDYtMTM2Ni00NjcyLTllZGYtNTc3YjA2YjdjZTRmJmRldmljZUxhdD0tMzIuODgzMyZkZXZpY2VMb249LTY4LjgxNjcmZGV2aWNlTWFrZT1BbmRyb2lkJTJCQnJvd3NlciZkZXZpY2VNb2RlbD1BbmRyb2lkJTJCQnJvd3NlciZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPTQuMCZpbmNsdWRlRXh0ZW5kZWRFdmVudHM9ZmFsc2UmbWFya2V0aW5nUmVnaW9uPVZFJnNpZD1iM2NjNzY5MS1mNjk0LTExZWEtYmZiZi0wMjQyYWMxMTAwMDImdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 21 POSADAS" tvg-logo="" group-title="Uncategorized",cardinal@rQ0FOQUwgMjEgUE9TQURBUw==
+cardinal@raHR0cHM6Ly9pcHR2Lml4Zm8uY29tLmFyOjMwNDQzL2MyMXR2L2hkL2MyMXR2L2NodW5rcy5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑOL RUN TIME" tvg-logo="" group-title="Uncategorized",cardinal@rRVNQQcORT0wgUlVOIFRJTUU=
+cardinal@raHR0cDovL3NlcnZpY2Utc3RpdGNoZXIuY2x1c3RlcnMucGx1dG8udHYvc3RpdGNoL2hscy9jaGFubmVsLzYwODZkM2Y0MjBmYzg1MDAwNzVmOGRiZi9tYXN0ZXIubTN1OD9hZHZlcnRpc2luZ0lkPSZhcHBOYW1lPXdlYiZhcHBWZXJzaW9uPXVua25vd24mYXBwU3RvcmVVcmw9JmFyY2hpdGVjdHVyZT0mYnVpbGRWZXJzaW9uPSZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NDZmZTA3NjAtY2Q2Yi0xMWViLTg5YTAtMTkxMTI1NTQ3NmE0JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNpZD1kYzYzZTliZi01YWM5LTQ1YjItOWVkOS1iZjI4NzkwMGY3YTgmdXNlcklkPSZzZXJ2ZXJTaWRlQWRzPXRydWU=
+#EXTINF:-1 tvg-id="" tvg-name="STV El Canal Familiar" tvg-logo="" group-title="Uncategorized",cardinal@rU1RWIEVsIENhbmFsIEZhbWlsaWFy
+cardinal@raHR0cDovL3RpcXVpY2lhdHYuY29tOjE5MzUvc3R2L3dlYi9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="Desire TV FHD" tvg-logo="" group-title="Uncategorized",cardinal@rRGVzaXJlIFRWIEZIRA==
+cardinal@raHR0cDovLzg4LjIxMi43LjExL2xpdmUvdGVzdF9kZXNpcmVfaGRfaGV2Yy9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 34 PR" tvg-logo="" group-title="Uncategorized",cardinal@rQ0FOQUwgMzQgUFI=
+cardinal@raHR0cDovL3N0cmVhbXllcy5hbHNvbG5ldC5jb20vY2FuYWwzNGhkL2xpdmUvcGxheWxpc3QubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Bazzers FHD" tvg-logo="" group-title="Uncategorized",cardinal@rQmF6emVycyBGSEQ=
+cardinal@raHR0cDovLzg4LjIxMi43LjExL2xpdmUvdGVzdF9icmF6emVyc19oZF9oZXZjL3BsYXlsaXN0Lm0zdTg=
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV FHD" tvg-logo="" group-title="Uncategorized",cardinal@rRG9yY2VsIFRWIEZIRA==
+cardinal@raHR0cDovLzg4LjIxMi43LjExL2xpdmUvdGVzdF9kb3JjZWxfaGRfaGV2Yy9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX ADULT TIME" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBBRFVMVCBUSU1F
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NTQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX ALL GROUP SEX" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBBTEwgR1JPVVAgU0VY
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NTY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX BABES" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBCQUJFUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NTk=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX BANG BROS NETWORK" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBCQU5HIEJST1MgTkVUV09SSw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NjA=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX BLOW ME POV" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBCTE9XIE1FIFBPVg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NjM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX BRATTY SIS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBCUkFUVFkgU0lT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NjU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX BRAZZERS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBCUkFaWkVSUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NjY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX BUMS BUS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBCVU1TIEJVUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5Njc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX CASTING COUCH" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBDQVNUSU5HIENPVUNI
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5Njg=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX CUM 4K" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBDVU0gNEs=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5Njk=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX DAGFS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBEQUdGUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NzA=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX DIABOLIC" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBESUFCT0xJQw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NzI=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX DIGITAL PLAYGROUND" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBESUdJVEFMIFBMQVlHUk9VTkQ=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NzM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX DOGFART NETWORK" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBET0dGQVJUIE5FVFdPUks=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NzQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX DORCEL CLUB" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBET1JDRUwgQ0xVQg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NzU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX DREAMROOM" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBEUkVBTVJPT00=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NzY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX EROTIKVONBENAN" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBFUk9USUtWT05CRU5BTg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5Nzc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX FAKE HOSTEL" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBGQUtFIEhPU1RFTA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5Nzk=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX FILTHY POV" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBGSUxUSFkgUE9W
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX FIRST ANAL QUEST" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBGSVJTVCBBTkFMIFFVRVNU
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX FIT 18" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBGSVQgMTg=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX GOTMYLF" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBHT1RNWUxG
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX HOLED" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBIT0xFRA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTA=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX INTERRACIAL PASS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBJTlRFUlJBQ0lBTCBQQVNT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX JAYS POV" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBKQVlTIFBPVg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX JESH BY JESH" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBKRVNIIEJZIEpFU0g=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX JOI BABES" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBKT0kgQkFCRVM=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX JULES JORDAN" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBKVUxFUyBKT1JEQU4=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX LETHAL HARDCORE" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBMRVRIQUwgSEFSRENPUkU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDE=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX LETHAL TEENS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBMRVRIQUwgVEVFTlM=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDI=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX LETS DOE IT" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBMRVRTIERPRSBJVA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX LIFE SELECTOR" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBMSUZFIFNFTEVDVE9S
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX LOVE HER FEET" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBMT1ZFIEhFUiBGRUVU
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX LOVE HOME PORN" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBMT1ZFIEhPTUUgUE9STg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX LUBED" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBMVUJFRA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX LUXURE" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBMVVhVUkU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDg=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MAMACITAZ" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNQU1BQ0lUQVo=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMDk=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MASSAGE ROOMS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNQVNTQUdFIFJPT01T
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTA=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MODEL MEDIA ASIA" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNT0RFTCBNRURJQSBBU0lB
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTE=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MOFOS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNT0ZPUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTI=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MOM TEACH SEX" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNT00gVEVBQ0ggU0VY
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MOM XXX" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNT00gWFhY
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MOMMY BLOWS BEST" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNT01NWSBCTE9XUyBCRVNU
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MY DIRTY HOBBY" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNWSBESVJUWSBIT0JCWQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MY PERVY FAMILY" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNWSBQRVJWWSBGQU1JTFk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjA=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MY TINY WISH" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNWSBUSU5ZIFdJU0g=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjE=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MYLF" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNWUxG
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjI=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX NEW SENSATIONS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBORVcgU0VOU0FUSU9OUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX NF BUSTY" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBORiBCVVNUWQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX NUBILE FILMS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBOVUJJTEUgRklMTVM=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX NURU MASSAGE" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBOVVJVIE1BU1NBR0U=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX PASSION" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQQVNTSU9O
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX PERV CITY" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQRVJWIENJVFk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjg=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX PERV MOM" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQRVJWIE1PTQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMjk=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX PORN WORLD HARDCORE" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQT1JOIFdPUkxEIEhBUkRDT1JF
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMzA=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX POVD" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQT1ZE
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMzI=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX PRENCESS CUM" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQUkVOQ0VTUyBDVU0=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMzM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX PRIVATE" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQUklWQVRF
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMzQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX PROPERTY SEX" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQUk9QRVJUWSBTRVg=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMzU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX AMATEUR EURO" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBBTUFURVVSIEVVUk8=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NTc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX BIPHORIA" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBCSVBIT1JJQQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5NjE=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX FAMILY STROKES" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBGQU1JTFkgU1RST0tFUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODE=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX FAKE TAXI" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBGQUtFIFRBWEk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODA=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX FAPADOO" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBGQVBBRE9P
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX FAMILY SWAP XXX" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBGQU1JTFkgU1dBUCBYWFg=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODI=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX HENTAINED" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBIRU5UQUlORUQ=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODg=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX HER LIMIT" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBIRVIgTElNSVQ=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5ODk=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX HOT WIFE XXX" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBIT1QgV0lGRSBYWFg=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTE=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX HUSSIE PASS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBIVVNTSUUgUEFTUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTI=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX KINKY FAMILY" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBLSU5LWSBGQU1JTFk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTg=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX KINKY INLAWS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBLSU5LWSBJTkxBV1M=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNTk5OTk=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MUST NOT FAP" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNVVNUIE5PVCBGQVA=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MY FAMILY PIES" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNWSBGQU1JTFkgUElFUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTg=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX MY LIFE IN MIAMI" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBNWSBMSUZFIElOIE1JQU1J
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMTk=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX PURE MATURE" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBQVVJFIE1BVFVSRQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMzc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX REAL DIRTY VIDEOS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBSRUFMIERJUlRZIFZJREVPUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwMzg=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX REALITY JUNKIES" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBSRUFMSVRZIEpVTktJRVM=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDA=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX REALITY KINGS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBSRUFMSVRZIEtJTkdT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDE=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX SLIM 4K" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBTTElNIDRL
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDI=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX STROKIES" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBTVFJPS0lFUw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDM=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX SUGAR BABES TV" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBTVUdBUiBCQUJFUyBUVg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDQ=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX SWEET SINNER" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBTV0VFVCBTSU5ORVI=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDU=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX THROATED" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBUSFJPQVRFRA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDY=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX TRUE AMATUERS" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBUUlVFIEFNQVRVRVJT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDc=
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX X CHIMERA" tvg-logo="" group-title="Uncategorized",cardinal@rUE9STkJPWCBYIENISU1FUkE=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDg=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEABELLA DANGER" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFQUJFTExBIERBTkdFUg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNDk=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEADRIANA CHECHIK" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFQURSSUFOQSBDSEVDSElL
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNTA=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEELSA JEAN" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFRUxTQSBKRUFO
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNTk=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEDANI DANIELS" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFREFOSSBEQU5JRUxT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNTc=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEEMILY WILLIS" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFRU1JTFkgV0lMTElT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjA=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEEVA LOVIA" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFRVZBIExPVklB
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjE=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEGINA VALENTINA" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFR0lOQSBWQUxFTlRJTkE=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjI=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEJANICE GRIFFITH" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFSkFOSUNFIEdSSUZGSVRI
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjM=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEJESSA RHODES" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFSkVTU0EgUkhPREVT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjQ=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVELANA RHOADES" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFTEFOQSBSSE9BREVT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjU=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVELENA PAUL" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFTEVOQSBQQVVM
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjY=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVELISA ANN" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFTElTQSBBTk4=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjc=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEMADISON IVY" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFTUFESVNPTiBJVlk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjg=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEMIA MALKOVA" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFTUlBIE1BTEtPVkE=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNjk=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVENICOLE ANISTON" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFTklDT0xFIEFOSVNUT04=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzA=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVERILEY REID" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFUklMRVkgUkVJRA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzE=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEUMA JOLIE" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFVU1BIEpPTElF
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzI=
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVEVALENTINA NAPPI" tvg-logo="" group-title="Uncategorized",cardinal@rU1RBUlMgRVhDTFVTSVZFVkFMRU5USU5BIE5BUFBJ
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzM=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSALICE REDLIPS" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNBTElDRSBSRURMSVBT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzQ=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSBIGTITTYGOTHEGG" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNCSUdUSVRUWUdPVEhFR0c=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzU=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSCHERRY GRACE" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNDSEVSUlkgR1JBQ0U=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzY=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSDIANA DANIELS" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNESUFOQSBEQU5JRUxT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzg=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSELLAKAI" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNFTExBS0FJ
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwNzk=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSFIAMURR" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNGSUFNVVJS
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODA=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSKRISS KISS" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNLUklTUyBLSVNT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODE=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSLEAH MEOW" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNMRUFIIE1FT1c=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODI=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSMIKANIKA69" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNNSUtBTklLQTY5
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODQ=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSMINI DIVA" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNNSU5JIERJVkE=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODU=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSMOLLYREDWOLF" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNNT0xMWVJFRFdPTEY=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODY=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSNOFACEGIRL" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNOT0ZBQ0VHSVJM
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODc=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSNOTSOAMATEUR" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNOT1RTT0FNQVRFVVI=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODg=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSNYNA FERRAGNI" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNOWU5BIEZFUlJBR05J
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwODk=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSPURPLE BITCH" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNQVVJQTEUgQklUQ0g=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTA=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSREISLIN" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNSRUlTTElO
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTE=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSSECRETCRUSH" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNTRUNSRVRDUlVTSA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTI=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSSHAIDEN ROUGE" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNTSEFJREVOIFJPVUdF
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTM=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSSOLAZOLA" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNTT0xBWk9MQQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTQ=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSSWEET BUNNY" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNTV0VFVCBCVU5OWQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTU=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSTESSA WINTERS" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNURVNTQSBXSU5URVJT
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTY=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSTINNA ANGEL" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNUSU5OQSBBTkdFTA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTc=
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURSYINYLEON" tvg-logo="" group-title="Uncategorized",cardinal@rVkVSSUZJRUQgQU1BVEVVUlNZSU5ZTEVPTg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8xNjAwOTg=
+#EXTINF:-1 tvg-id="" tvg-name="404HotFound" tvg-logo="" group-title="Uncategorized",cardinal@rNDA0SG90Rm91bmQ=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0MzQ=
+#EXTINF:-1 tvg-id="" tvg-name="CARCOL HD" tvg-logo="" group-title="Uncategorized",cardinal@rQ0FSQ09MIEhE
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTM4NzAw
+#EXTINF:-1 tvg-id="" tvg-name="NTN24 HD" tvg-logo="" group-title="Uncategorized",cardinal@rTlROMjQgSEQ=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTM4NzA0
+#EXTINF:-1 tvg-id="" tvg-name="RCN FHD" tvg-logo="" group-title="Uncategorized",cardinal@rUkNOIEZIRA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTM4Njk0
+#EXTINF:-1 tvg-id="" tvg-name="SENAL COLOMBIA" tvg-logo="" group-title="Uncategorized",cardinal@rU0VOQUwgQ09MT01CSUE=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTM4NzEx
+#EXTINF:-1 tvg-id="" tvg-name="TELECAFE" tvg-logo="" group-title="Uncategorized",cardinal@rVEVMRUNBRkU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTM4NzI2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN COLOMBIA" tvg-logo="" group-title="Uncategorized",cardinal@rRVNQTiBDT0xPTUJJQQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC84Njc2NQ==
+#EXTINF:-1 tvg-id="" tvg-name="A Girls Knows" tvg-logo="" group-title="Uncategorized",cardinal@rQSBHaXJscyBLbm93cw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0MzU=
+#EXTINF:-1 tvg-id="" tvg-name="Abella Danger" tvg-logo="" group-title="Uncategorized",cardinal@rQWJlbGxhIERhbmdlcg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0MzY=
+#EXTINF:-1 tvg-id="" tvg-name="Adriana Chechik" tvg-logo="" group-title="Uncategorized",cardinal@rQWRyaWFuYSBDaGVjaGlr
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0Mzk=
+#EXTINF:-1 tvg-id="" tvg-name="Adult Mobile" tvg-logo="" group-title="Uncategorized",cardinal@rQWR1bHQgTW9iaWxl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDA=
+#EXTINF:-1 tvg-id="" tvg-name="Aeries Steele" tvg-logo="" group-title="Uncategorized",cardinal@rQWVyaWVzIFN0ZWVsZQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDE=
+#EXTINF:-1 tvg-id="" tvg-name="Alex Adams" tvg-logo="" group-title="Uncategorized",cardinal@rQWxleCBBZGFtcw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDI=
+#EXTINF:-1 tvg-id="" tvg-name="Alexis Crystal" tvg-logo="" group-title="Uncategorized",cardinal@rQWxleGlzIENyeXN0YWw=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDM=
+#EXTINF:-1 tvg-id="" tvg-name="Alexis Fawx" tvg-logo="" group-title="Uncategorized",cardinal@rQWxleGlzIEZhd3g=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDQ=
+#EXTINF:-1 tvg-id="" tvg-name="Alexis Tae" tvg-logo="" group-title="Uncategorized",cardinal@rQWxleGlzIFRhZQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDU=
+#EXTINF:-1 tvg-id="" tvg-name="Alexis Texas" tvg-logo="" group-title="Uncategorized",cardinal@rQWxleGlzIFRleGFz
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDY=
+#EXTINF:-1 tvg-id="" tvg-name="Alina Lopez" tvg-logo="" group-title="Uncategorized",cardinal@rQWxpbmEgTG9wZXo=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDc=
+#EXTINF:-1 tvg-id="" tvg-name="Alina Rai" tvg-logo="" group-title="Uncategorized",cardinal@rQWxpbmEgUmFp
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDg=
+#EXTINF:-1 tvg-id="" tvg-name="Allinika" tvg-logo="" group-title="Uncategorized",cardinal@rQWxsaW5pa2E=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NDk=
+#EXTINF:-1 tvg-id="" tvg-name="Amadani" tvg-logo="" group-title="Uncategorized",cardinal@rQW1hZGFuaQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTA=
+#EXTINF:-1 tvg-id="" tvg-name="Amateur Euro" tvg-logo="" group-title="Uncategorized",cardinal@rQW1hdGV1ciBFdXJv
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTE=
+#EXTINF:-1 tvg-id="" tvg-name="Amateurtwo" tvg-logo="" group-title="Uncategorized",cardinal@rQW1hdGV1cnR3bw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTI=
+#EXTINF:-1 tvg-id="" tvg-name="Amber Moore" tvg-logo="" group-title="Uncategorized",cardinal@rQW1iZXIgTW9vcmU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTM=
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-logo="" group-title="Uncategorized",cardinal@rQW5hbA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTQ=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTU=
+#EXTINF:-1 tvg-id="" tvg-name="Anal Mom" tvg-logo="" group-title="Uncategorized",cardinal@rQW5hbCBNb20=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTY=
+#EXTINF:-1 tvg-id="" tvg-name="Anal4K" tvg-logo="" group-title="Uncategorized",cardinal@rQW5hbDRL
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTc=
+#EXTINF:-1 tvg-id="" tvg-name="Analized" tvg-logo="" group-title="Uncategorized",cardinal@rQW5hbGl6ZWQ=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTg=
+#EXTINF:-1 tvg-id="" tvg-name="Anastangel" tvg-logo="" group-title="Uncategorized",cardinal@rQW5hc3RhbmdlbA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NTk=
+#EXTINF:-1 tvg-id="" tvg-name="Anastasia Knight" tvg-logo="" group-title="Uncategorized",cardinal@rQW5hc3Rhc2lhIEtuaWdodA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NjA=
+#EXTINF:-1 tvg-id="" tvg-name="Angela White" tvg-logo="" group-title="Uncategorized",cardinal@rQW5nZWxhIFdoaXRl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NjE=
+#EXTINF:-1 tvg-id="" tvg-name="Anny Walker" tvg-logo="" group-title="Uncategorized",cardinal@rQW5ueSBXYWxrZXI=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NjI=
+#EXTINF:-1 tvg-id="" tvg-name="Aria Lee" tvg-logo="" group-title="Uncategorized",cardinal@rQXJpYSBMZWU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NjM=
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-logo="" group-title="Uncategorized",cardinal@rQXNpYW4=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NjU=
+#EXTINF:-1 tvg-id="" tvg-name="Athena Faris" tvg-logo="" group-title="Uncategorized",cardinal@rQXRoZW5hIEZhcmlz
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NjY=
+#EXTINF:-1 tvg-id="" tvg-name="Aunt Judys XXX" tvg-logo="" group-title="Uncategorized",cardinal@rQXVudCBKdWR5cyBYWFg=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0Njc=
+#EXTINF:-1 tvg-id="" tvg-name="Autumn Falls" tvg-logo="" group-title="Uncategorized",cardinal@rQXV0dW1uIEZhbGxz
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0Njg=
+#EXTINF:-1 tvg-id="" tvg-name="Ava Addams" tvg-logo="" group-title="Uncategorized",cardinal@rQXZhIEFkZGFtcw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0Njk=
+#EXTINF:-1 tvg-id="" tvg-name="BadCuteGirl" tvg-logo="" group-title="Uncategorized",cardinal@rQmFkQ3V0ZUdpcmw=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NzA=
+#EXTINF:-1 tvg-id="" tvg-name="BadFamilyPov" tvg-logo="" group-title="Uncategorized",cardinal@rQmFkRmFtaWx5UG92
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NzE=
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bros Network" tvg-logo="" group-title="Uncategorized",cardinal@rQmFuZyBCcm9zIE5ldHdvcms=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NzI=
+#EXTINF:-1 tvg-id="" tvg-name="BBC Pie" tvg-logo="" group-title="Uncategorized",cardinal@rQkJDIFBpZQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NzM=
+#EXTINF:-1 tvg-id="" tvg-name="BBW" tvg-logo="" group-title="Uncategorized",cardinal@rQkJX
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NzQ=
+#EXTINF:-1 tvg-id="" tvg-name="Behind the Scenes" tvg-logo="" group-title="Uncategorized",cardinal@rQmVoaW5kIHRoZSBTY2VuZXM=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0NzU=
+#EXTINF:-1 tvg-id="" tvg-name="BFFs" tvg-logo="" group-title="Uncategorized",cardinal@rQkZGcw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0Nzc=
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-logo="" group-title="Uncategorized",cardinal@rQmlnIEFzcw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0Nzg=
+#EXTINF:-1 tvg-id="" tvg-name="Big Boobs" tvg-logo="" group-title="Uncategorized",cardinal@rQmlnIEJvb2Jz
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0Nzk=
+#EXTINF:-1 tvg-id="" tvg-name="Blacks On Boys" tvg-logo="" group-title="Uncategorized",cardinal@rQmxhY2tzIE9uIEJveXM=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0ODI=
+#EXTINF:-1 tvg-id="" tvg-name="Blair Williams" tvg-logo="" group-title="Uncategorized",cardinal@rQmxhaXIgV2lsbGlhbXM=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0ODM=
+#EXTINF:-1 tvg-id="" tvg-name="Blake Blossom" tvg-logo="" group-title="Uncategorized",cardinal@rQmxha2UgQmxvc3NvbQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0ODQ=
+#EXTINF:-1 tvg-id="" tvg-name="Blaze Rager" tvg-logo="" group-title="Uncategorized",cardinal@rQmxhemUgUmFnZXI=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0ODU=
+#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-logo="" group-title="Uncategorized",cardinal@rQmxvbmRl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0ODY=
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-logo="" group-title="Uncategorized",cardinal@rQmxvd2pvYg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0ODc=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0ODg=
+#EXTINF:-1 tvg-id="" tvg-name="Bob Big Tula" tvg-logo="" group-title="Uncategorized",cardinal@rQm9iIEJpZyBUdWxh
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0ODk=
+#EXTINF:-1 tvg-id="" tvg-name="Bonniealex" tvg-logo="" group-title="Uncategorized",cardinal@rQm9ubmllYWxleA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0OTE=
+#EXTINF:-1 tvg-id="" tvg-name="Bratty Milf" tvg-logo="" group-title="Uncategorized",cardinal@rQnJhdHR5IE1pbGY=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0OTM=
+#EXTINF:-1 tvg-id="" tvg-name="Bratty Sis" tvg-logo="" group-title="Uncategorized",cardinal@rQnJhdHR5IFNpcw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0OTQ=
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers" tvg-logo="" group-title="Uncategorized",cardinal@rQnJhenplcnM=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0OTU=
+#EXTINF:-1 tvg-id="" tvg-name="Brooke Tilli" tvg-logo="" group-title="Uncategorized",cardinal@rQnJvb2tlIFRpbGxp
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0OTc=
+#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-logo="" group-title="Uncategorized",cardinal@rQnJ1bmV0dGU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0OTg=
+#EXTINF:-1 tvg-id="" tvg-name="Candy Love" tvg-logo="" group-title="Uncategorized",cardinal@rQ2FuZHkgTG92ZQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU0OTk=
+#EXTINF:-1 tvg-id="" tvg-name="Canela Skin" tvg-logo="" group-title="Uncategorized",cardinal@rQ2FuZWxhIFNraW4=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDA=
+#EXTINF:-1 tvg-id="" tvg-name="Carla Cute" tvg-logo="" group-title="Uncategorized",cardinal@rQ2FybGEgQ3V0ZQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDE=
+#EXTINF:-1 tvg-id="" tvg-name="Casting" tvg-logo="" group-title="Uncategorized",cardinal@rQ2FzdGluZw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDI=
+#EXTINF:-1 tvg-id="" tvg-name="Casting Couch" tvg-logo="" group-title="Uncategorized",cardinal@rQ2FzdGluZyBDb3VjaA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDM=
+#EXTINF:-1 tvg-id="" tvg-name="Cherie DeVille" tvg-logo="" group-title="Uncategorized",cardinal@rQ2hlcmllIERlVmlsbGU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDQ=
+#EXTINF:-1 tvg-id="" tvg-name="Chessie Rae" tvg-logo="" group-title="Uncategorized",cardinal@rQ2hlc3NpZSBSYWU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDU=
+#EXTINF:-1 tvg-id="" tvg-name="Chole Temple" tvg-logo="" group-title="Uncategorized",cardinal@rQ2hvbGUgVGVtcGxl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDY=
+#EXTINF:-1 tvg-id="" tvg-name="Chuck Hunter" tvg-logo="" group-title="Uncategorized",cardinal@rQ2h1Y2sgSHVudGVy
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDc=
+#EXTINF:-1 tvg-id="" tvg-name="Close Up" tvg-logo="" group-title="Uncategorized",cardinal@rQ2xvc2UgVXA=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDg=
+#EXTINF:-1 tvg-id="" tvg-name="College" tvg-logo="" group-title="Uncategorized",cardinal@rQ29sbGVnZQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MDk=
+#EXTINF:-1 tvg-id="" tvg-name="Cory Chase" tvg-logo="" group-title="Uncategorized",cardinal@rQ29yeSBDaGFzZQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MTA=
+#EXTINF:-1 tvg-id="" tvg-name="Cosplay" tvg-logo="" group-title="Uncategorized",cardinal@rQ29zcGxheQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MTE=
+#EXTINF:-1 tvg-id="" tvg-name="Creamy Spot" tvg-logo="" group-title="Uncategorized",cardinal@rQ3JlYW15IFNwb3Q=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MTM=
+#EXTINF:-1 tvg-id="" tvg-name="Crystal Rush" tvg-logo="" group-title="Uncategorized",cardinal@rQ3J5c3RhbCBSdXNo
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MTU=
+#EXTINF:-1 tvg-id="" tvg-name="Cum in Mouth" tvg-logo="" group-title="Uncategorized",cardinal@rQ3VtIGluIE1vdXRo
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MTc=
+#EXTINF:-1 tvg-id="" tvg-name="Cumshot" tvg-logo="" group-title="Uncategorized",cardinal@rQ3Vtc2hvdA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MTg=
+#EXTINF:-1 tvg-id="" tvg-name="Cutie Kim" tvg-logo="" group-title="Uncategorized",cardinal@rQ3V0aWUgS2lt
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MTk=
+#EXTINF:-1 tvg-id="" tvg-name="Czrok" tvg-logo="" group-title="Uncategorized",cardinal@rQ3pyb2s=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MjE=
+#EXTINF:-1 tvg-id="" tvg-name="Dani Daniels" tvg-logo="" group-title="Uncategorized",cardinal@rRGFuaSBEYW5pZWxz
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MjI=
+#EXTINF:-1 tvg-id="" tvg-name="Daniela Antury" tvg-logo="" group-title="Uncategorized",cardinal@rRGFuaWVsYSBBbnR1cnk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MjM=
+#EXTINF:-1 tvg-id="" tvg-name="Davcina" tvg-logo="" group-title="Uncategorized",cardinal@rRGF2Y2luYQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MjQ=
+#EXTINF:-1 tvg-id="" tvg-name="DeLuXeGirL" tvg-logo="" group-title="Uncategorized",cardinal@rRGVMdVhlR2lyTA==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MjY=
+#EXTINF:-1 tvg-id="" tvg-name="Diana Rider" tvg-logo="" group-title="Uncategorized",cardinal@rRGlhbmEgUmlkZXI=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1Mjg=
+#EXTINF:-1 tvg-id="" tvg-name="DickForLily" tvg-logo="" group-title="Uncategorized",cardinal@rRGlja0ZvckxpbHk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1Mjk=
+#EXTINF:-1 tvg-id="" tvg-name="Dillion Harper" tvg-logo="" group-title="Uncategorized",cardinal@rRGlsbGlvbiBIYXJwZXI=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1MzI=
+#EXTINF:-1 tvg-id="" tvg-name="Elly Clutch" tvg-logo="" group-title="Uncategorized",cardinal@rRWxseSBDbHV0Y2g=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1Mzg=
+#EXTINF:-1 tvg-id="" tvg-name="Elsa Jean" tvg-logo="" group-title="Uncategorized",cardinal@rRWxzYSBKZWFu
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU1Mzk=
+#EXTINF:-1 tvg-id="" tvg-name="Latina Milf" tvg-logo="" group-title="Uncategorized",cardinal@rTGF0aW5hIE1pbGY=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MTM=
+#EXTINF:-1 tvg-id="" tvg-name="LaSirena69" tvg-logo="" group-title="Uncategorized",cardinal@rTGFTaXJlbmE2OQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MTE=
+#EXTINF:-1 tvg-id="" tvg-name="Lela Star" tvg-logo="" group-title="Uncategorized",cardinal@rTGVsYSBTdGFy
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MTg=
+#EXTINF:-1 tvg-id="" tvg-name="Lena Paul" tvg-logo="" group-title="Uncategorized",cardinal@rTGVuYSBQYXVs
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MTk=
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-logo="" group-title="Uncategorized",cardinal@rTGVzYmlhbg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MjE=
+#EXTINF:-1 tvg-id="" tvg-name="Lexi Luna" tvg-logo="" group-title="Uncategorized",cardinal@rTGV4aSBMdW5h
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MjU=
+#EXTINF:-1 tvg-id="" tvg-name="Little Caprice" tvg-logo="" group-title="Uncategorized",cardinal@rTGl0dGxlIENhcHJpY2U=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2Mjc=
+#EXTINF:-1 tvg-id="" tvg-name="Loliiiiipop99" tvg-logo="" group-title="Uncategorized",cardinal@rTG9saWlpaWlwb3A5OQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MzA=
+#EXTINF:-1 tvg-id="" tvg-name="Loly Lips" tvg-logo="" group-title="Uncategorized",cardinal@rTG9seSBMaXBz
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MzE=
+#EXTINF:-1 tvg-id="" tvg-name="Lulu Chu" tvg-logo="" group-title="Uncategorized",cardinal@rTHVsdSBDaHU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MzM=
+#EXTINF:-1 tvg-id="" tvg-name="Luna Okko" tvg-logo="" group-title="Uncategorized",cardinal@rTHVuYSBPa2tv
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MzQ=
+#EXTINF:-1 tvg-id="" tvg-name="Luna Star" tvg-logo="" group-title="Uncategorized",cardinal@rTHVuYSBTdGFy
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2MzY=
+#EXTINF:-1 tvg-id="" tvg-name="Magic Asian Pussy" tvg-logo="" group-title="Uncategorized",cardinal@rTWFnaWMgQXNpYW4gUHVzc3k=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2Mzk=
+#EXTINF:-1 tvg-id="" tvg-name="MamacitaZ" tvg-logo="" group-title="Uncategorized",cardinal@rTWFtYWNpdGFa
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NDA=
+#EXTINF:-1 tvg-id="" tvg-name="Mature" tvg-logo="" group-title="Uncategorized",cardinal@rTWF0dXJl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NDU=
+#EXTINF:-1 tvg-id="" tvg-name="Megan Rain" tvg-logo="" group-title="Uncategorized",cardinal@rTWVnYW4gUmFpbg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NDc=
+#EXTINF:-1 tvg-id="" tvg-name="Mia Malkova" tvg-logo="" group-title="Uncategorized",cardinal@rTWlhIE1hbGtvdmE=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NTI=
+#EXTINF:-1 tvg-id="" tvg-name="MihaNika69" tvg-logo="" group-title="Uncategorized",cardinal@rTWloYU5pa2E2OQ==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NTM=
+#EXTINF:-1 tvg-id="" tvg-name="Mila Solana" tvg-logo="" group-title="Uncategorized",cardinal@rTWlsYSBTb2xhbmE=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NTQ=
+#EXTINF:-1 tvg-id="" tvg-name="Milana Milka" tvg-logo="" group-title="Uncategorized",cardinal@rTWlsYW5hIE1pbGth
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NTU=
+#EXTINF:-1 tvg-id="" tvg-name="Milf" tvg-logo="" group-title="Uncategorized",cardinal@rTWlsZg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NTY=
+#EXTINF:-1 tvg-id="" tvg-name="Mini Diva" tvg-logo="" group-title="Uncategorized",cardinal@rTWluaSBEaXZh
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NTg=
+#EXTINF:-1 tvg-id="" tvg-name="Milfed" tvg-logo="" group-title="Uncategorized",cardinal@rTWlsZmVk
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NTc=
+#EXTINF:-1 tvg-id="" tvg-name="Mirrari Hub" tvg-logo="" group-title="Uncategorized",cardinal@rTWlycmFyaSBIdWI=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NjA=
+#EXTINF:-1 tvg-id="" tvg-name="Miss Ary" tvg-logo="" group-title="Uncategorized",cardinal@rTWlzcyBBcnk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NjE=
+#EXTINF:-1 tvg-id="" tvg-name="Mofos" tvg-logo="" group-title="Uncategorized",cardinal@rTW9mb3M=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NjU=
+#EXTINF:-1 tvg-id="" tvg-name="Molly Little" tvg-logo="" group-title="Uncategorized",cardinal@rTW9sbHkgTGl0dGxl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NjY=
+#EXTINF:-1 tvg-id="" tvg-name="Molly Moon" tvg-logo="" group-title="Uncategorized",cardinal@rTW9sbHkgTW9vbg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2Njc=
+#EXTINF:-1 tvg-id="" tvg-name="Mom Lover" tvg-logo="" group-title="Uncategorized",cardinal@rTW9tIExvdmVy
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NzA=
+#EXTINF:-1 tvg-id="" tvg-name="Mom Wants Creampie" tvg-logo="" group-title="Uncategorized",cardinal@rTW9tIFdhbnRzIENyZWFtcGll
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NzI=
+#EXTINF:-1 tvg-id="" tvg-name="Mom Wants To Breed" tvg-logo="" group-title="Uncategorized",cardinal@rTW9tIFdhbnRzIFRvIEJyZWVk
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NzM=
+#EXTINF:-1 tvg-id="" tvg-name="Moms Teach Sex" tvg-logo="" group-title="Uncategorized",cardinal@rTW9tcyBUZWFjaCBTZXg=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2NzQ=
+#EXTINF:-1 tvg-id="" tvg-name="My Pervy Family" tvg-logo="" group-title="Uncategorized",cardinal@rTXkgUGVydnkgRmFtaWx5
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2Nzg=
+#EXTINF:-1 tvg-id="" tvg-name="MYLF" tvg-logo="" group-title="Uncategorized",cardinal@rTVlMRg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2ODA=
+#EXTINF:-1 tvg-id="" tvg-name="Natasha Nice" tvg-logo="" group-title="Uncategorized",cardinal@rTmF0YXNoYSBOaWNl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2ODM=
+#EXTINF:-1 tvg-id="" tvg-name="NF Busty" tvg-logo="" group-title="Uncategorized",cardinal@rTkYgQnVzdHk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2OTA=
+#EXTINF:-1 tvg-id="" tvg-name="Nubiles" tvg-logo="" group-title="Uncategorized",cardinal@rTnViaWxlcw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2OTQ=
+#EXTINF:-1 tvg-id="" tvg-name="Paige Steele" tvg-logo="" group-title="Uncategorized",cardinal@rUGFpZ2UgU3RlZWxl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2OTY=
+#EXTINF:-1 tvg-id="" tvg-name="Pantyhose" tvg-logo="" group-title="Uncategorized",cardinal@rUGFudHlob3Nl
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU2OTg=
+#EXTINF:-1 tvg-id="" tvg-name="Passion" tvg-logo="" group-title="Uncategorized",cardinal@rUGFzc2lvbg==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3MDA=
+#EXTINF:-1 tvg-id="" tvg-name="Pinkloving" tvg-logo="" group-title="Uncategorized",cardinal@rUGlua2xvdmluZw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3MDc=
+#EXTINF:-1 tvg-id="" tvg-name="Piper Perri" tvg-logo="" group-title="Uncategorized",cardinal@rUGlwZXIgUGVycmk=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3MDg=
+#EXTINF:-1 tvg-id="" tvg-name="Pissing" tvg-logo="" group-title="Uncategorized",cardinal@rUGlzc2luZw==
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3MDk=
+#EXTINF:-1 tvg-id="" tvg-name="Pussy Eating" tvg-logo="" group-title="Uncategorized",cardinal@rUHVzc3kgRWF0aW5n
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3MjA=
+#EXTINF:-1 tvg-id="" tvg-name="Elle Lee" tvg-logo="" group-title="Uncategorized",cardinal@rRWxsZSBMZWU=
+cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3OTM=

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="New Channel" tvg-logo="" group-title="Uncategorized",cardinal@rTmV3IENoYW5uZWw=
+cardinal@r
 #EXTINF:-1 tvg-id="" tvg-name="00s Replay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKh2zHmnCsaKRPha9xbOpdMcNDvX-N43m7Q&s" group-title="Undefined",cardinal@rMDBzIFJlcGxheQ==
 cardinal@raHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNjJiYTYwZjA1OTYyNGUwMDA3ODFjNDM2L21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyNWU0MzAtMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPTFiN2RlOGU0LWQxMTQtNDQzOC1iMDk4LTZmN2FlZTc3YjRiZQ==
 #EXTINF:-1 tvg-id="123tv.de@SD" tvg-name="1-2-3 TV" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Shop",cardinal@rMS0yLTMgVFY=
@@ -2256,20 +2258,6 @@ cardinal@raHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbH
 cardinal@raHR0cDovLzEyMy41Ni4yNC4yODoxOTM1L2xpdmUvZm0xMDM5Lzk2Sy90endqX3ZpZGVvLm0zdTg=
 #EXTINF:-1 tvg-id="" tvg-name="Beijing Youth Radio" tvg-logo="" group-title="Undefined",cardinal@rQmVpamluZyBZb3V0aCBSYWRpbw==
 cardinal@raHR0cDovL2F1ZGlvbGl2ZS5yYmMuY246MTkzNS9saXZlL2FtOTI3Lzk2Sy90endqX3ZpZGVvLm0zdTg=
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgTUFYIDE=
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://x.com/
-cardinal@raHR0cDovLzM4LjI0Mi4yMTguOTIvYm14eHgvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4
-cardinal@raHR0cHM6Ly9wcm9kLWZhc3RseS11cy13ZXN0LTIudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvanBnX0ZMWTNOZEg3MkxyVEt3X09tSW1RNVlDT2k4Zy1IRHM1eWRNUVR0S1VZeEJPQ3QzV1VsMF9iQ3dyTS1EYlVVMDNvUW8xNTY0ZC0yNTBoVzJFTVEvdHJhbnNjb2RlL3VzLXdlc3QtMi9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLXVzLXdlc3QtMi1wdWJsaWMvZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW5abGNuTnBiMjRpT2lJeUluMC5leUpGYm1OdlpHVnlVMlYwZEdsdVp5STZJbVZ1WTI5a1pYSmZjMlYwZEdsdVoxOHhNRGd3Y0RNd1h6RXdJaXdpU0dWcFoyaDBJam94TURnd0xDSkxZbkJ6SWpvMU5UQXdMQ0pYYVdSMGFDSTZNVGt5TUgwLk9JbU1aYWJLWUowY3M5Q25JYXBVLTRhQms2S05CaUp4aTFoaC02bDRCWjQvZHluYW1pY19oaWdobGF0ZW5jeS5tM3U4P3R5cGU9bGl2ZQ==
-cardinal@raHR0cDovLzE5OS4xMTUuMTkzLjExNjo4MC85MDA0MDc5ODI3ODk0MS85MDA0MDc5ODI3ODk0MS80MzI5MDQ=
-cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS8zMzUyMzUxMC9pbmRleC5tM3U4
-cardinal@raHR0cDovL3Roa3Ntb20uc2hvcC9JTl9BQzEvdHJhY2tzLXYxYTEvbW9uby5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgTUFYIDI=
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://x.com/
-cardinal@raHR0cDovLzE5OS4xMTUuMTkzLjExNjo4MC85MDA0MDc5ODI3ODk0MS85MDA0MDc5ODI3ODk0MS80MzI5MDA=
-cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS85OTYyNTEwMDAvaW5kZXgubTN1OA==
-cardinal@raHR0cDovL3Roa3Ntb20uc2hvcC9JTl9BQzIvdHJhY2tzLXYxYTEvbW9uby5tM3U4
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports News" tvg-logo="https://assets.bein.com/bmg/sites/3/2022/11/NEWS_Channel_Full_Color.jpg" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgTmV3cw==
 cardinal@raHR0cDovLzE5OS4xMTUuMTkzLjExNjo4MC85MDA0MDc5ODI3ODk0MS85MDA0MDc5ODI3ODk0MS8zMjcwNzQ=
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgMQ==
@@ -2326,17 +2314,23 @@ cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0N18ubTN1OA==
 cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vN18ubTN1OA==
 cardinal@raHR0cDovL3Mub25seTQudHYvOTAxNS9pbmRleC5tM3U4P3Rva2VuPWpacXF2bm5xQ3M=
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sports 1" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Bn",cardinal@rQWx3YW4gU3BvcnRzIDE=
-cardinal@raHR0cHM6Ly9zdHJlYW0uZ29hbHh0di53b3JrZXJzLmRldi9hbHcxL2hkLm0zdTg=
+cardinal@raHR0cDovL2VhZ2xlMjAyNC54eXovbGl2ZS9zdGFhcl84NzAwMTIvTVVLNnFzR2svMTY0MTYwNS50cw==
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NDMubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sports 2" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Bn",cardinal@rQWx3YW4gU3BvcnRzIDI=
-cardinal@raHR0cHM6Ly9zdHJlYW0uZ29hbHh0di53b3JrZXJzLmRldi9hbHcyL2hkLm0zdTg=
+cardinal@raHR0cDovL2VhZ2xlMjAyNC54eXovbGl2ZS9zdGFhcl84NzAwMTIvTVVLNnFzR2svMTY0MTYwNi50cw==
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NDQubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sports 3" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Bn",cardinal@rQWx3YW4gU3BvcnRzIDM=
-cardinal@raHR0cHM6Ly9zdHJlYW0uZ29hbHh0di53b3JrZXJzLmRldi9hbHczL2hkLm0zdTg=
+cardinal@raHR0cDovL2VhZ2xlMjAyNC54eXovbGl2ZS9zdGFhcl84NzAwMTIvTVVLNnFzR2svMTY0MTYwNy50cw==
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NDUubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sports 4" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Bn",cardinal@rQWx3YW4gU3BvcnRzIDQ=
-cardinal@raHR0cHM6Ly9zdHJlYW0uZ29hbHh0di53b3JrZXJzLmRldi9hbHc0L2hkLm0zdTg=
+cardinal@raHR0cDovL2VhZ2xlMjAyNC54eXovbGl2ZS9zdGFhcl84NzAwMTIvTVVLNnFzR2svMTY0MTYwOC50cw==
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NDYubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sports 5" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Bn",cardinal@rQWx3YW4gU3BvcnRzIDU=
-cardinal@raHR0cHM6Ly9zdHJlYW0uZ29hbHh0di53b3JrZXJzLmRldi9hbHc1L2hkLm0zdTg=
+cardinal@raHR0cDovL2VhZ2xlMjAyNC54eXovbGl2ZS9zdGFhcl84NzAwMTIvTVVLNnFzR2svMTY0MTYwOS50cw==
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NDcubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sports 6" tvg-logo="https://static.nicegram.app/features/telegram_channel_icons/8fbd1510-9e0d-48b9-aba6-884fb8c8a5a5.jpeg" group-title="Bn",cardinal@rQWx3YW4gU3BvcnRzIDY=
-cardinal@raHR0cHM6Ly9zdHJlYW0uZ29hbHh0di53b3JrZXJzLmRldi9hbHc2L2hkLm0zdTg=
+cardinal@raHR0cDovL2VhZ2xlMjAyNC54eXovbGl2ZS9zdGFhcl84NzAwMTIvTVVLNnFzR2svMTY0MTYxMC50cw==
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NDgubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgOA==
 cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vOF8ubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0OF8ubTN1OA==
@@ -26086,3 +26080,13 @@ cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3MDk=
 cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3MjA=
 #EXTINF:-1 tvg-id="" tvg-name="Elle Lee" tvg-logo="" group-title="Uncategorized",cardinal@rRWxsZSBMZWU=
 cardinal@raHR0cDovL2ZvcnR2LmNjOjgwODAvMG44dTlSLzE2OTMyNC8yMTU3OTM=
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Aflam 2 FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",cardinal@rQWx3YW4gQWZsYW0gMiBGSEQgVklQIEFyYg==
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NjIubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Alwathaeqye FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",cardinal@rQWx3YW4gQWx3YXRoYWVxeWUgRkhEIFZJUCBBcmI=
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NjMubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Atfal FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",cardinal@rQWx3YW4gQXRmYWwgRkhEIFZJUCBBcmI=
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NjQubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Mosalsalat FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",cardinal@rQWx3YW4gTW9zYWxzYWxhdCBGSEQgVklQIEFyYg==
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NjUubTN1OA==
+#EXTINF:-1 tvg-id="" tvg-name="Alwan Turkey FHD VIP Arb" tvg-logo="" group-title="Arabic Channel",cardinal@rQWx3YW4gVHVya2V5IEZIRCBWSVAgQXJi
+cardinal@raHR0cDovL3ZpcC5zaWJmdW5nb2xkLm9yZzo4MDgwL2xpdmUvaG14Lm9zY2FtL0ZSdGdCaGg1MjEvNTY3NjYubTN1OA==

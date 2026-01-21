@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="New Channel" tvg-logo="" group-title="Uncategorized",cardinal@rTmV3IENoYW5uZWw=
-cardinal@r
 #EXTINF:-1 tvg-id="" tvg-name="00s Replay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKh2zHmnCsaKRPha9xbOpdMcNDvX-N43m7Q&s" group-title="Undefined",cardinal@rMDBzIFJlcGxheQ==
 cardinal@raHR0cDovL2NmZC12NC1zZXJ2aWNlLWNoYW5uZWwtc3RpdGNoZXItdXNlMS0xLnByZC5wbHV0by50di9zdGl0Y2gvaGxzL2NoYW5uZWwvNjJiYTYwZjA1OTYyNGUwMDA3ODFjNDM2L21hc3Rlci5tM3U4P2FwcE5hbWU9d2ViJmFwcFZlcnNpb249dW5rbm93biZjbGllbnRUaW1lPTAmZGV2aWNlRE5UPTAmZGV2aWNlSWQ9NmMyNWU0MzAtMzBkMy0xMWVmLTljZjUtZTlkZGZmOGZmNDk2JmRldmljZU1ha2U9Q2hyb21lJmRldmljZU1vZGVsPXdlYiZkZXZpY2VUeXBlPXdlYiZkZXZpY2VWZXJzaW9uPXVua25vd24maW5jbHVkZUV4dGVuZGVkRXZlbnRzPWZhbHNlJnNlcnZlclNpZGVBZHM9ZmFsc2Umc2lkPTFiN2RlOGU0LWQxMTQtNDQzOC1iMDk4LTZmN2FlZTc3YjRiZQ==
 #EXTINF:-1 tvg-id="123tv.de@SD" tvg-name="1-2-3 TV" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Shop",cardinal@rMS0yLTMgVFY=
@@ -2263,6 +2261,7 @@ cardinal@raHR0cDovLzE5OS4xMTUuMTkzLjExNjo4MC85MDA0MDc5ODI3ODk0MS85MDA0MDc5ODI3OD
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-1.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgMQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
+cardinal@raHR0cHM6Ly9zdHJlYW0uc3VwZXJ0di5nZzozMDAxL3N1cGVydHYvc3BvcnQvc3R2MS9jaDEvYWRhcHRpdmUubTN1OA==
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS85MTg0NTQ1NzgwMDEvaW5kZXgubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0MV8ubTN1OA==
 cardinal@raHR0cHM6Ly9iYWxhbmNlLmZvb3RiYWxsaWkuaXIvaGxzMi9iZWluMS5tM3U4
@@ -2273,6 +2272,7 @@ cardinal@raHR0cDovL3N1cGVyaW50ZW5kZW50LndoYXRldmVyZ29zLmNvbTo4MDgwL0FCRFVMTEFIL2
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-2.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgMg==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
+cardinal@raHR0cHM6Ly9zdHJlYW0uc3VwZXJ0di5nZzozMDAxL3N1cGVydHYvc3BvcnQvc3R2MS9jaDIvYWRhcHRpdmUubTN1OA==
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS82OTg1NDIxMS9pbmRleC5tM3U4
 cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vMl8ubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0Ml8ubTN1OA==
@@ -2283,6 +2283,7 @@ cardinal@raHR0cHM6Ly9iYWxhbmNlLmZvb3RiYWxsaWkuaXIvaGxzMi9tYW0ubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-3.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgMw==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
+cardinal@raHR0cHM6Ly9zdHJlYW0uc3VwZXJ0di5nZzozMDAxL3N1cGVydHYvc3BvcnQvc3R2MS9jaDMvYWRhcHRpdmUubTN1OA==
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS82NDU1ODc3MDAvaW5kZXgubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0M18ubTN1OA==
 cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vM18ubTN1OA==
@@ -2291,18 +2292,21 @@ cardinal@raHR0cHM6Ly9iYWxhbmNlLmZvb3RiYWxsaWkuaXIvaGxzMi9iZWluMy5tM3U4
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-4.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgNA==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
+cardinal@raHR0cHM6Ly9zdHJlYW0uc3VwZXJ0di5nZzozMDAxL3N1cGVydHYvc3BvcnQvc3R2MS9jaDQvYWRhcHRpdmUubTN1OA==
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS85Nzg3NDg4ODQ3L2luZGV4Lm0zdTg=
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0NF8ubTN1OA==
 cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vNF8ubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-5.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgNQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
+cardinal@raHR0cHM6Ly9zdHJlYW0uc3VwZXJ0di5nZzozMDAxL3N1cGVydHYvc3BvcnQvc3R2MS9jaDUvYWRhcHRpdmUubTN1OA==
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS82MTAzMDMwMzAvaW5kZXgubTN1OA==
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0NV8ubTN1OA==
 cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vNV8ubTN1OA==
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6" tvg-logo="https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/Icons/premium/bein-sports-6.png" group-title="Bn",cardinal@rYmVJTiBTcG9ydHMgNg==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
+cardinal@raHR0cHM6Ly9zdHJlYW0uc3VwZXJ0di5nZzozMDAxL3N1cGVydHYvc3BvcnQvc3R2MS9jaDYvYWRhcHRpdmUubTN1OA==
 cardinal@raHR0cHM6Ly9oZXQwMDAuNHJvdXdhbmRhLXNob3Auc3RvcmUvbGl2ZS8xNTE1MDAwMDAwL2luZGV4Lm0zdTg=
 cardinal@raHR0cDovLzEzNS4xMjUuMTA5LjczOjkwMDAvYmVpbnNwb3J0Nl8ubTN1OA==
 cardinal@raHR0cHM6Ly9zZG1tdDE2Mi5wcm92ZWdvb290dC5jb20vNl8ubTN1OA==

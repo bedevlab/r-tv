@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-04-23T20:48:24.180Z",
-    "total_channels": 4,
+    "updated": "2026-04-23T20:50:01.509Z",
+    "total_channels": 5,
     "network_order": [
       "beIN Sports",
       "Alwan",
@@ -272,7 +272,7 @@
     },
     {
       "id": "cardinal@rYmVpbi5zcG9ydHMuMg==",
-      "name": "cardinal@r2YLZhSDYqNiq2YbYstmK2YQg",
+      "name": "cardinal@r2KrYt9io2YrZgtmG2Kcg2YXZhg==",
       "category": "cardinal@rU3BvcnRz",
       "logo": "cardinal@raHR0cHM6Ly9pLmltZ3VyLmNvbS9pamg0azZvLnBuZw==",
       "origin": "",
@@ -357,6 +357,21 @@
           "url": "cardinal@raHR0cDovL2Fyb3guY2MvbGl2ZS81NTA3NTcxNzg5NTMvNTUwNzU3MTc4OTUzLzI1MTg4OC50cw=="
         }
       ]
+    },
+    {
+      "id": "cardinal@r2YXYrdiq2YjZiSDZhdiz2LHZiNmC",
+      "name": "cardinal@r2YXYrdiq2YjZiSDZhdiz2LHZiNmC",
+      "category": "cardinal@rVW5jYXRlZ29yaXplZA==",
+      "logo": "cardinal@raHR0cHM6Ly9pLmltZ3VyLmNvbS9pamg0azZvLnBuZw==",
+      "origin": "",
+      "network": "cardinal@rYmVJTiBTcG9ydHM=",
+      "network_logo": "cardinal@raHR0cHM6Ly9pLmltZ3VyLmNvbS9pamg0azZvLnBuZw==",
+      "ua": "",
+      "referer": "",
+      "epg_id": "",
+      "isHidden": false,
+      "isAdult": false,
+      "sources": []
     }
   ]
 }

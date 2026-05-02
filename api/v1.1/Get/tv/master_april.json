@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-05-01T21:43:08.156Z",
+    "updated": "2026-05-02T02:06:05.281Z",
     "total_channels": 3893,
     "network_order": [
       "beIN Sports",
@@ -79,6 +79,10 @@
       "isHidden": false,
       "isAdult": false,
       "sources": [
+        {
+          "label": "cardinal@rU3RyZWFtIDEw",
+          "url": "cardinal@raHR0cHM6Ly9zcjEub3otdHYueHl6L3MxL2JfMV9IRC9pbmRleC5tM3U4"
+        },
         {
           "label": "cardinal@rVklQIDRL",
           "url": "cardinal@raHR0cDovL2FmY29jYWZvdC5jb206ODA4MC9ibjE0ay90cmFja3MtdjFhMS9tb25vLm0zdTg="

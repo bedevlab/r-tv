@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-05-05T10:07:47.394Z",
+    "updated": "2026-05-05T16:28:11.340Z",
     "total_channels": 3921,
     "network_order": [
       "beIN Sports",
@@ -80,14 +80,6 @@
       "isAdult": false,
       "sources": [
         {
-          "label": "cardinal@rVklQIEhE",
-          "url": "cardinal@raHR0cDovL2FmY29jYWZvdC5jb206ODA4MC9ibjFoZC9pbmRleC5tM3U4"
-        },
-        {
-          "label": "cardinal@rVklQIDRL",
-          "url": "cardinal@raHR0cDovL2FmY29jYWZvdC5jb206ODA4MC9ibjE0ay90cmFja3MtdjFhMS9tb25vLm0zdTg="
-        },
-        {
           "label": "cardinal@rU3RyZWFtIDEw",
           "url": "cardinal@raHR0cHM6Ly9zcjEub3otdHYueHl6L3MxL2JfMV9IRC9pbmRleC5tM3U4"
         },
@@ -139,14 +131,6 @@
       "isHidden": false,
       "isAdult": false,
       "sources": [
-        {
-          "label": "cardinal@rVklQIEhE",
-          "url": "cardinal@raHR0cDovL2FmY29jYWZvdC5jb206ODA4MC9ibjJoZC9pbmRleC5tM3U4"
-        },
-        {
-          "label": "cardinal@rVklQIDRL",
-          "url": "cardinal@raHR0cDovL2FmY29jYWZvdC5jb206ODA4MC9ibjE0ay90cmFja3MtdjFhMS9tb25vLm0zdTg="
-        },
         {
           "label": "cardinal@rU3RyZWFtIDg=",
           "url": "cardinal@raHR0cHM6Ly9zcjEub3otdHYueHl6L3MxL2JfMV9IRC9pbmRleC5tM3U4"
@@ -218,10 +202,6 @@
         {
           "label": "cardinal@rU3RyZWFtIDg=",
           "url": "cardinal@raHR0cHM6Ly9zcjEub3otdHYueHl6L3MxL2JfM19IRC9pbmRleC5tM3U4"
-        },
-        {
-          "label": "cardinal@rU3RyZWFtIDM=",
-          "url": "cardinal@raHR0cDovL2FmY29jYWZvdC5jb206ODA4MC9ibjM0ay90cmFja3MtdjFhMS9tb25vLm0zdTg="
         },
         {
           "label": "cardinal@rU3RyZWFtIDU=",
@@ -348,10 +328,6 @@
       "isAdult": false,
       "sources": [
         {
-          "label": "cardinal@rVklQIEhE",
-          "url": "cardinal@raHR0cDovL2FmY29jYWZvdC5jb206ODA4MC9ibjZoZC9pbmRleC5tM3U4"
-        },
-        {
           "label": "cardinal@rU0Q=",
           "url": "cardinal@raHR0cDovL2hldDEyNmMueWNuLXJlZGlyZWN0LmNvbS9saXZlLzE1MTUwMDAwMDAvaW5kZXgubTN1OA=="
         },
@@ -394,10 +370,6 @@
         {
           "label": "cardinal@rU3RyZWFtIDI=",
           "url": "cardinal@raHR0cDovL3Byby5uZXRtb3Mub3ZoOjczNTUvbGl2ZS9NTVRWTzg5UzdEWTdDTlY3U0QvUDdISURTUENONTgwV1hIOTAvNzg4MDMudHM="
-        },
-        {
-          "label": "cardinal@rU3RyZWFtIDE=",
-          "url": "cardinal@raHR0cDovL3R2LnN0YXJ0c2V2ZW4udG46MjA1Mi8wOTc0NjE3MS8xNTQ0NTM0NS8yNzE="
         },
         {
           "label": "cardinal@rU0Q=",

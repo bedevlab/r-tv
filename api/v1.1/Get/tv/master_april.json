@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-05-06T18:34:50.988Z",
+    "updated": "2026-05-06T20:18:45.184Z",
     "total_channels": 3921,
     "network_order": [
       "beIN Sports",
@@ -79,6 +79,10 @@
       "isHidden": false,
       "isAdult": false,
       "sources": [
+        {
+          "label": "cardinal@rVE9E",
+          "url": "cardinal@raHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LTEudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvVjBCQl9QRGxjbFBmSUZDTE9CVG1PTkF0YlpINlY2Nl9IalBvaTYwNFF3RmVEdEhuZkl0VTNYdWJ6bmZmVTZyYkV0dXNWOVFPR1N0OFR5ZXJQNGlZNlEvdHJhbnNjb2RlL2V1LXdlc3QtMS9wZXJpc2NvcGUtcmVwbGF5LWRpcmVjdC1wcm9kLWV1LXdlc3QtMS1wdWJsaWMvZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW5abGNuTnBiMjRpT2lJeUluMC5leUpGYm1OdlpHVnlVMlYwZEdsdVp5STZJbVZ1WTI5a1pYSmZjMlYwZEdsdVoxOHhNRGd3Y0RNd1h6RXdJaXdpU0dWcFoyaDBJam94TURnd0xDSkxZbkJ6SWpvMU5UQXdMQ0pYYVdSMGFDSTZNVGt5TUgwLk9JbU1aYWJLWUowY3M5Q25JYXBVLTRhQms2S05CaUp4aTFoaC02bDRCWjQvZHluYW1pY19kZWx0YS5tM3U4P3R5cGU9bGl2ZQ=="
+        },
         {
           "label": "cardinal@rc3RyZWFtIDE=",
           "url": "cardinal@raHR0cDovLzE4NS4yMjkuMjQwLjExMjoxOTkxL2xpdmUvVUtJUFRWL1dLdEVJUTFvMnMvMTAxOTAxLnRz"

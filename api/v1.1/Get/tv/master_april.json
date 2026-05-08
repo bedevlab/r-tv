@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-05-08T12:04:47.010Z",
+    "updated": "2026-05-08T12:11:10.274Z",
     "total_channels": 3921,
     "network_order": [
       "beIN Sports",
@@ -118,6 +118,10 @@
         {
           "label": "cardinal@rc3RhcnNoYXJl",
           "url": "cardinal@raHR0cDovL1JvY2hkaUBzdGFyc2hhcmUubmV0OjgwL2xpdmUvU3VyeWFhYS9TVVJZQUFBQS82NTIzMTAudHM="
+        },
+        {
+          "label": "cardinal@rU3RyZWFtIDEx",
+          "url": "cardinal@raHR0cDovL2dvbGRpcHR2b2ZmaWNpZWwudHY6MjU0NjEvbGl2ZS92aW5jZW50LmJhcm5hY2hvbi5zaXgxL1daYmgzZ1BXQ3ZDNC8xODcxLnRz"
         }
       ]
     },
@@ -174,6 +178,10 @@
         {
           "label": "cardinal@rcmVlbHB1c2g=",
           "url": "cardinal@raHR0cDovL2g0Mi5yZWVscHVzaC5vbmxpbmUvbGl2ZS82OTg1NDIxMS9pbmRleC5tM3U4"
+        },
+        {
+          "label": "cardinal@rU3RyZWFtIDEx",
+          "url": "cardinal@raHR0cDovL2dvbGRpcHR2b2ZmaWNpZWwudHY6MjU0NjEvbGl2ZS92aW5jZW50LmJhcm5hY2hvbi5zaXgxL1daYmgzZ1BXQ3ZDNC8xODcyLnRz"
         }
       ]
     },
@@ -230,6 +238,10 @@
         {
           "label": "cardinal@rcmVlbHB1c2g=",
           "url": "cardinal@raHR0cDovL2g0Mi5yZWVscHVzaC5vbmxpbmUvbGl2ZS82NDU1ODc3MDAvaW5kZXgubTN1OA=="
+        },
+        {
+          "label": "cardinal@rU3RyZWFtIDEx",
+          "url": "cardinal@raHR0cDovL2dvbGRpcHR2b2ZmaWNpZWwudHY6MjU0NjEvbGl2ZS92aW5jZW50LmJhcm5hY2hvbi5zaXgxL1daYmgzZ1BXQ3ZDNC8xMzcudHM="
         }
       ]
     },
@@ -282,6 +294,10 @@
         {
           "label": "cardinal@rcmVlbHB1c2g=",
           "url": "cardinal@raHR0cDovL2g0Mi5yZWVscHVzaC5vbmxpbmUvbGl2ZS85Nzg3NDg4ODQ3L2luZGV4Lm0zdTg="
+        },
+        {
+          "label": "cardinal@rU3RyZWFtIDEw",
+          "url": "cardinal@raHR0cDovL2dvbGRpcHR2b2ZmaWNpZWwudHY6MjU0NjEvbGl2ZS92aW5jZW50LmJhcm5hY2hvbi5zaXgxL1daYmgzZ1BXQ3ZDNC83NDc3LnRz"
         }
       ]
     },
@@ -330,6 +346,10 @@
         {
           "label": "cardinal@rc3RhcnNoYXJl",
           "url": "cardinal@raHR0cDovL1JvY2hkaUBzdGFyc2hhcmUubmV0OjgwL2xpdmUvU3VyeWFhYS9TVVJZQUFBQS82NTIzMTQudHM="
+        },
+        {
+          "label": "cardinal@rU3RyZWFtIDk=",
+          "url": "cardinal@raHR0cDovL2dvbGRpcHR2b2ZmaWNpZWwudHY6MjU0NjEvbGl2ZS92aW5jZW50LmJhcm5hY2hvbi5zaXgxL1daYmgzZ1BXQ3ZDNC80NzI3OS50cw=="
         }
       ]
     },
@@ -370,6 +390,10 @@
         {
           "label": "cardinal@rc3RhcnNoYXJl",
           "url": "cardinal@raHR0cDovL1JvY2hkaUBzdGFyc2hhcmUubmV0OjgwL2xpdmUvU3VyeWFhYS9TVVJZQUFBQS82NTIzMTUudHM="
+        },
+        {
+          "label": "cardinal@rU3RyZWFtIDc=",
+          "url": "cardinal@raHR0cDovL2dvbGRpcHR2b2ZmaWNpZWwudHY6MjU0NjEvbGl2ZS92aW5jZW50LmJhcm5hY2hvbi5zaXgxL1daYmgzZ1BXQ3ZDNC8xODc3LnRz"
         }
       ]
     },
@@ -406,6 +430,10 @@
         {
           "label": "cardinal@rc3RhcnNoYXJl",
           "url": "cardinal@raHR0cDovL1JvY2hkaUBzdGFyc2hhcmUubmV0OjgwL2xpdmUvU3VyeWFhYS9TVVJZQUFBQS82NTIzMTYudHM="
+        },
+        {
+          "label": "cardinal@rU3RyZWFtIDc=",
+          "url": "cardinal@raHR0cDovL2dvbGRpcHR2b2ZmaWNpZWwudHY6MjU0NjEvbGl2ZS92aW5jZW50LmJhcm5hY2hvbi5zaXgxL1daYmgzZ1BXQ3ZDNC8xNDEudHM="
         }
       ]
     },

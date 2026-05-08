@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-05-08T11:42:58.800Z",
+    "updated": "2026-05-08T11:59:41.056Z",
     "total_channels": 3921,
     "network_order": [
       "beIN Sports",
@@ -8733,7 +8733,7 @@
       "sources": [
         {
           "label": "cardinal@rU3RyZWFtIDY=",
-          "url": "cardinal@raHR0cDovL2Fyb3guY2MvbGl2ZS8yNDIzMjIzMzQxOTc0My8yNDIzMjIzMzQxOTc0My8yNTM3MjMudHM="
+          "url": "cardinal@raHR0cHM6Ly9kMXlpNDBzamowY2Ewdi5jbG91ZGZyb250Lm5ldC9UVkQxNDUxL2luZGV4Lm1wZA=="
         }
       ]
     },
@@ -8753,15 +8753,7 @@
       "sources": [
         {
           "label": "cardinal@rU3RyZWFtIDU=",
-          "url": "cardinal@raHR0cDovL2Fyb3guY2MvbGl2ZS8yNDIzMjIzMzQxOTc0My8yNDIzMjIzMzQxOTc0My8yNTM3MjUudHM="
-        },
-        {
-          "label": "cardinal@rU3RyZWFtIDE=",
-          "url": "cardinal@raHR0cDovL3I2NjUuaW8vbGl2ZS9FR0VTSVBFL2J6QXNaTnIvMTEyMzgyLnRz"
-        },
-        {
-          "label": "cardinal@rU3RyZWFtIDQ=",
-          "url": "cardinal@raHR0cHM6Ly9ha2FtYWktbGl2ZS5zZXJ2ZXJzOC5jb20vZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SjFjMlZ5U1dRaU9pSnRTRTVVZUhCNFVqRlJhSHBRVVRKbFVGZzBjVWQ1YTB0MmVtZ3lJaXdpWTJoaGJtNWxiRTVoYldVaU9pSmphREF4SWl3aWFYQWlPaUk0TXk0eU5EUXVOemN1TnpNaUxDSnBjRjkyTkNJNklqZ3pMakkwTkM0M055NDNNeUlzSW1sd1gzWTJJam9pSWl3aWRYTmxja0ZuWlc1MElqb2lUVzk2YVd4c1lTODFMakFnS0ZkcGJtUnZkM01nVGxRZ01UQXVNRHNnVjJsdU5qUTdJSGcyTkNrZ1FYQndiR1ZYWldKTGFYUXZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbEx6RTBOQzR3TGpBdU1DQlRZV1poY21rdk5UTTNMak0ySWl3aWJtSm1Jam94TnpZNU1ERTJPVEkwTENKbGVIQWlPakUzTmprd01qYzNNalFzSW1saGRDSTZNVGMyT1RBeE5qa3lOSDAuR2NoNG9RRzFBX1FndGFDMmh3MkQ5R1RvckdER1FvaVl5MTA3aUhienBkay9saXZlL2NoMDIvaW5kZXgubTN1OD9hdXRoX2tleT0xNzY5MDE2OTU0LWU5YzZkNjc4NjUwNTRiMzE4NTdhOGJhOWFiZGRjNDE5LTAtNTUzZjMyMmQwZTRhMmQwZDc5YTgwY2EyYTgwMTkyZjI="
+          "url": "cardinal@raHR0cHM6Ly9kMXlpNDBzamowY2Ewdi5jbG91ZGZyb250Lm5ldC9UVkQxNDAzL2luZGV4Lm1wZA=="
         }
       ]
     },
@@ -8781,7 +8773,7 @@
       "sources": [
         {
           "label": "cardinal@rU3RyZWFtIDQ=",
-          "url": "cardinal@raHR0cDovL2Fyb3guY2MvbGl2ZS8yNDIzMjIzMzQxOTc0My8yNDIzMjIzMzQxOTc0My8yNTM3MjIudHM="
+          "url": "cardinal@raHR0cHM6Ly9kMXlpNDBzamowY2Ewdi5jbG91ZGZyb250Lm5ldC9UVkQ2NzM3L2luZGV4Lm1wZA=="
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-05-13T09:04:13.560Z",
+    "updated": "2026-05-13T16:25:45.523Z",
     "total_channels": 3780,
     "network_order": [
       "beIN Sports",
@@ -84,6 +84,18 @@
       "isAdult": false,
       "sources": [
         {
+          "label": "cardinal@rS2F0bGFu",
+          "url": "cardinal@raHR0cDovL2xpdmUuYWxrYXRsYW50di5jb206ODg4OC9iZWluMThrL2luZGV4Lm0zdTg="
+        },
+        {
+          "label": "cardinal@rT3N0b3Jh",
+          "url": "cardinal@raHR0cHM6Ly9pcy5nZC9BRDFPODcubTN1OA=="
+        },
+        {
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE4LnRz"
+        },
+        {
           "label": "cardinal@rU3RyZWFtIDEw",
           "url": "cardinal@raHR0cHM6Ly9zcjEub3otdHYueHl6L3MxL2JfMV9IRC9pbmRleC5tM3U4"
         },
@@ -118,14 +130,6 @@
         {
           "label": "cardinal@rU3RyZWFtIDEx",
           "url": "cardinal@raHR0cDovL2dvbGRpcHR2b2ZmaWNpZWwudHY6MjU0NjEvbGl2ZS92aW5jZW50LmJhcm5hY2hvbi5zaXgxL1daYmgzZ1BXQ3ZDNC8xODcxLnRz"
-        },
-        {
-          "label": "cardinal@rT3N0b3Jh",
-          "url": "cardinal@raHR0cHM6Ly9pcy5nZC9BRDFPODcubTN1OA=="
-        },
-        {
-          "label": "cardinal@rS2F0bGFu",
-          "url": "cardinal@raHR0cDovL2xpdmUuYWxrYXRsYW50di5jb206ODg4OC9iZWluMThrL2luZGV4Lm0zdTg="
         }
       ]
     },
@@ -143,6 +147,14 @@
       "isHidden": false,
       "isAdult": false,
       "sources": [
+        {
+          "label": "cardinal@rT3N0b3Jh",
+          "url": "cardinal@raHR0cHM6Ly9pcy5nZC9RS1dMVmUubTN1OA=="
+        },
+        {
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE3LnRz"
+        },
         {
           "label": "cardinal@rU3RyZWFtIDg=",
           "url": "cardinal@raHR0cHM6Ly9zcjEub3otdHYueHl6L3MxL2JfMl9IRC9pbmRleC5tM3U4"
@@ -196,6 +208,10 @@
       "isAdult": false,
       "sources": [
         {
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE2LnRz"
+        },
+        {
           "label": "cardinal@rU3RyZWFtIDg=",
           "url": "cardinal@raHR0cHM6Ly9zcjEub3otdHYueHl6L3MxL2JfM19IRC9pbmRleC5tM3U4"
         },
@@ -248,6 +264,10 @@
       "isAdult": false,
       "sources": [
         {
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE1LnRz"
+        },
+        {
           "label": "cardinal@rU0Q=",
           "url": "cardinal@raHR0cDovL2hldDEyOGIueWNuLXJlZGlyZWN0LmNvbS9saXZlLzk3ODc0ODg4NDcvaW5kZXgubTN1OA=="
         },
@@ -296,6 +316,10 @@
       "isAdult": false,
       "sources": [
         {
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE0LnRz"
+        },
+        {
           "label": "cardinal@rU0Q=",
           "url": "cardinal@raHR0cDovL2hldDEzMWEueWNuLXJlZGlyZWN0LmNvbS9saXZlLzYxMDMwMzAzMC9pbmRleC5tM3U4"
         },
@@ -340,6 +364,10 @@
       "isAdult": false,
       "sources": [
         {
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTEzLnRz"
+        },
+        {
           "label": "cardinal@rU0Q=",
           "url": "cardinal@raHR0cDovL2hldDEyNmMueWNuLXJlZGlyZWN0LmNvbS9saXZlLzE1MTUwMDAwMDAvaW5kZXgubTN1OA=="
         },
@@ -380,8 +408,8 @@
       "isAdult": false,
       "sources": [
         {
-          "label": "cardinal@rU3RyZWFtIDI=",
-          "url": "cardinal@raHR0cDovL3Byby5uZXRtb3Mub3ZoOjczNTUvbGl2ZS9NTVRWTzg5UzdEWTdDTlY3U0QvUDdISURTUENONTgwV1hIOTAvNzg4MDMudHM="
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTEyLnRz"
         },
         {
           "label": "cardinal@rU0Q=",

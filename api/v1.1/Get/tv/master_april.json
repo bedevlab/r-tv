@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-05-14T19:36:41.495Z",
+    "updated": "2026-05-14T19:42:11.896Z",
     "total_channels": 3780,
     "network_order": [
       "beIN Sports",
@@ -84,6 +84,10 @@
       "isAdult": false,
       "sources": [
         {
+          "label": "cardinal@rc3VwYQ==",
+          "url": "cardinal@raHR0cDovL3N1cGFhcHAueHl6OjgwODAvZDg6ZTA6ZTE6YzA6Nzg6NTMvMzkxODQ0ODM2MTk4LzMxODE5Nw=="
+        },
+        {
           "label": "cardinal@raWJv",
           "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE4LnRz"
         },
@@ -94,10 +98,6 @@
         {
           "label": "cardinal@rT3N0b3Jh",
           "url": "cardinal@raHR0cHM6Ly9pcy5nZC9BRDFPODcubTN1OA=="
-        },
-        {
-          "label": "cardinal@rc3VwYQ==",
-          "url": "cardinal@raHR0cDovL3N1cGFhcHAueHl6OjgwODAvZDg6ZTA6ZTE6YzA6Nzg6NTMvMzkxODQ0ODM2MTk4LzMxODE5Nw=="
         },
         {
           "label": "cardinal@rU3RyZWFtIDEw",
@@ -196,12 +196,12 @@
       "isAdult": false,
       "sources": [
         {
-          "label": "cardinal@raWJv",
-          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE2LnRz"
-        },
-        {
           "label": "cardinal@rc3VwYQ==",
           "url": "cardinal@raHR0cDovL3N1cGFhcHAueHl6OjgwODAvZDg6ZTA6ZTE6YzA6Nzg6NTMvMzkxODQ0ODM2MTk4LzMxODE5OQ=="
+        },
+        {
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE2LnRz"
         },
         {
           "label": "cardinal@rU3RyZWFtIDg=",
@@ -248,12 +248,12 @@
       "isAdult": false,
       "sources": [
         {
-          "label": "cardinal@raWJv",
-          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE1LnRz"
-        },
-        {
           "label": "cardinal@rc3VwYQ==",
           "url": "cardinal@raHR0cDovL3N1cGFhcHAueHl6OjgwODAvZDg6ZTA6ZTE6YzA6Nzg6NTMvMzkxODQ0ODM2MTk4LzQ0MDU4MA=="
+        },
+        {
+          "label": "cardinal@raWJv",
+          "url": "cardinal@raHR0cDovL2libzEuMzQ0NjgwNy54eXovbGl2ZS8yNzk4OTk1Nzg1LzkxMzQ2MTg3ODMvNTY5NTE1LnRz"
         },
         {
           "label": "cardinal@rU0Q=",
